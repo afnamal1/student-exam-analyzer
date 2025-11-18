@@ -31,55 +31,64 @@ function StudentList({
           Öğrenci bulunamadı
         </Box>
       ) : (
-        students.map((student) => (
-          <ListItem
-            key={student.name}
-            disablePadding
-            sx={{
-              mb: 1,
-              bgcolor:
-                selectedStudent?.name === student.name
-                  ? 'primary.light'
-                  : 'transparent',
-              borderRadius: 2,
-              '&:hover': {
-                bgcolor: 'action.hover',
-              },
-            }}
-          >
-            <ListItemButton
-              onClick={() => onSelect(student)}
-              sx={{ borderRadius: 2 }}
+        students.map((student, index) => {
+          const uniqueKey = `${student.name}_${student.ogrenci_no || ''}_${
+            student.sinif || ''
+          }_${index}`;
+          return (
+            <ListItem
+              key={uniqueKey}
+              disablePadding
+              sx={{
+                mb: 1,
+                bgcolor:
+                  selectedStudent?.name === student.name
+                    ? 'primary.light'
+                    : 'transparent',
+                borderRadius: 2,
+                '&:hover': {
+                  bgcolor: 'action.hover',
+                },
+              }}
             >
-              <ListItemText
-                primary={student.name}
-                secondary={
-                  <Chip
-                    label={`Toplam Net: ${(student.toplam_net || 0).toFixed(
-                      2
-                    )}`}
-                    size="small"
-                    color={getToplamNetColor(student.toplam_net || 0)}
-                    sx={{ mt: 0.5 }}
-                  />
-                }
-              />
-            </ListItemButton>
-            <ListItemSecondaryAction>
-              <IconButton
-                edge="end"
-                size="small"
-                onClick={(e) => {
-                  e.stopPropagation();
-                  onAddToComparison(student);
-                }}
-                color="primary"
+              <ListItemButton
+                onClick={() => onSelect(student)}
+                sx={{ borderRadius: 2 }}
               >
-                <AddIcon />
-              </IconButton>
-            </ListItemSecondaryAction>
-          </ListItem>
-        ))
+                <ListItemText
+                  primary={student.name}
+                  secondary={
+                    <Box
+                      component="span"
+                      sx={{ display: 'inline-block', mt: 0.5 }}
+                    >
+                      <Chip
+                        label={`Toplam Net: ${(student.toplam_net || 0).toFixed(
+                          2
+                        )}`}
+                        size="small"
+                        color={getToplamNetColor(student.toplam_net || 0)}
+                      />
+                    </Box>
+                  }
+                />
+              </ListItemButton>
+              <ListItemSecondaryAction>
+                <IconButton
+                  edge="end"
+                  size="small"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    onAddToComparison(student);
+                  }}
+                  color="primary"
+                >
+                  <AddIcon />
+                </IconButton>
+              </ListItemSecondaryAction>
+            </ListItem>
+          );
+        })
       )}
     </List>
   );

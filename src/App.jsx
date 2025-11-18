@@ -24,6 +24,10 @@ import {
   Select,
   MenuItem,
   FormControl,
+  Button,
+  Snackbar,
+  Alert,
+  Input,
 } from '@mui/material';
 import {
   Search as SearchIcon,
@@ -34,6 +38,7 @@ import {
   Person as PersonIcon,
   Class as ClassIcon,
   Numbers as NumbersIcon,
+  CloudUpload as CloudUploadIcon,
 } from '@mui/icons-material';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -68,12 +73,12 @@ const theme = createTheme({
   },
 });
 
-const examOptions = [
-  { value: 'yaho_student_data.json', label: 'YAHO 8. Sınıf Sınav Sonuçları' },
-  { value: 'aydin_student_data.json', label: 'AYDIN Sınav Sonuçları' },
-];
-
 function App() {
+  const initialExamOptions = [
+    { value: 'yaho_student_data.json', label: 'YAHO 8. Sınıf Sınav Sonuçları' },
+    { value: 'aydin_student_data.json', label: 'AYDIN Sınav Sonuçları' },
+  ];
+  const [examOptions, setExamOptions] = useState(initialExamOptions);
   const [students, setStudents] = useState([]);
   const [filteredStudents, setFilteredStudents] = useState([]);
   const [selectedStudent, setSelectedStudent] = useState(null);
@@ -81,11 +86,18 @@ function App() {
   const [showComparison, setShowComparison] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [loading, setLoading] = useState(true);
-  const [selectedExam, setSelectedExam] = useState(examOptions[0].value);
+  const [selectedExam, setSelectedExam] = useState(initialExamOptions[0].value);
+  const [uploading, setUploading] = useState(false);
+  const [snackbar, setSnackbar] = useState({
+    open: false,
+    message: '',
+    severity: 'success',
+  });
+  const [uploadedData, setUploadedData] = useState({});
 
   useEffect(() => {
     loadData();
-  }, [selectedExam]);
+  }, [selectedExam, uploadedData]);
 
   useEffect(() => {
     if (searchQuery.trim() === '') {
@@ -105,16 +117,23 @@ function App() {
     setShowComparison(false);
 
     try {
-      const timestamp = new Date().getTime();
-      const response = await fetch(`/${selectedExam}?t=${timestamp}`, {
-        cache: 'no-cache',
-      });
+      let data;
 
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+      if (selectedExam.startsWith('uploaded_')) {
+        data = uploadedData[selectedExam] || [];
+      } else {
+        const timestamp = new Date().getTime();
+        const response = await fetch(`/${selectedExam}?t=${timestamp}`, {
+          cache: 'no-cache',
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        data = await response.json();
       }
 
-      const data = await response.json();
       const filtered = data.filter(
         (s) =>
           !s.name.includes('Genel Ortalama') &&
@@ -132,6 +151,85 @@ function App() {
 
   const handleExamChange = (event) => {
     setSelectedExam(event.target.value);
+  };
+
+  const handleFileUpload = async (event) => {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    if (!file.name.toLowerCase().endsWith('.pdf')) {
+      setSnackbar({
+        open: true,
+        message: 'Lütfen PDF dosyası seçin',
+        severity: 'error',
+      });
+      return;
+    }
+
+    setUploading(true);
+    const formData = new FormData();
+    formData.append('pdf', file);
+
+    try {
+      const response = await fetch('/api/upload-pdf', {
+        method: 'POST',
+        body: formData,
+      });
+
+      const result = await response.json();
+
+      if (result.success) {
+        const filtered = result.students.filter(
+          (s) =>
+            !s.name.includes('Genel Ortalama') &&
+            !s.name.includes('Okul Ortalaması')
+        );
+
+        const newOptionValue = `uploaded_${Date.now()}`;
+        setUploadedData({
+          ...uploadedData,
+          [newOptionValue]: result.students,
+        });
+
+        const newOption = {
+          value: newOptionValue,
+          label: `📤 ${file.name} (${result.count} öğrenci)`,
+        };
+        setExamOptions([...examOptions, newOption]);
+        setSelectedExam(newOptionValue);
+
+        setStudents(filtered);
+        setFilteredStudents(filtered);
+        setSelectedStudent(null);
+        setComparisonStudents([]);
+        setShowComparison(false);
+
+        setSnackbar({
+          open: true,
+          message: `${result.count} öğrenci başarıyla yüklendi!`,
+          severity: 'success',
+        });
+      } else {
+        setSnackbar({
+          open: true,
+          message: result.error || 'PDF işlenirken hata oluştu',
+          severity: 'error',
+        });
+      }
+    } catch (error) {
+      setSnackbar({
+        open: true,
+        message: 'Sunucuya bağlanılamadı. upload_server.py çalışıyor mu?',
+        severity: 'error',
+      });
+    } finally {
+      setUploading(false);
+      event.target.value = '';
+    }
+  };
+
+  const handleCloseSnackbar = () => {
+    setSnackbar({ ...snackbar, open: false });
   };
 
   const handleStudentSelect = (student) => {
@@ -290,10 +388,53 @@ function App() {
                     },
                   }}
                 />
+
+                <Input
+                  type="file"
+                  accept=".pdf"
+                  onChange={handleFileUpload}
+                  disabled={uploading}
+                  sx={{ display: 'none' }}
+                  id="pdf-upload-input"
+                />
+                <label htmlFor="pdf-upload-input">
+                  <Button
+                    component="span"
+                    variant="contained"
+                    size="small"
+                    startIcon={<CloudUploadIcon />}
+                    disabled={uploading}
+                    sx={{
+                      bgcolor: 'rgba(255, 255, 255, 0.2)',
+                      color: 'white',
+                      '&:hover': {
+                        bgcolor: 'rgba(255, 255, 255, 0.3)',
+                      },
+                      whiteSpace: 'nowrap',
+                    }}
+                  >
+                    {uploading ? 'Yükleniyor...' : 'PDF Yükle'}
+                  </Button>
+                </label>
               </Box>
             </Box>
           </Container>
         </Paper>
+
+        <Snackbar
+          open={snackbar.open}
+          autoHideDuration={6000}
+          onClose={handleCloseSnackbar}
+          anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
+        >
+          <Alert
+            onClose={handleCloseSnackbar}
+            severity={snackbar.severity}
+            sx={{ width: '100%' }}
+          >
+            {snackbar.message}
+          </Alert>
+        </Snackbar>
 
         <Container maxWidth="xl" sx={{ pb: 4 }}>
           <Grid container spacing={3}>

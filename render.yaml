@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ogrenci-performans-analiz
+    env: python
+    buildCommand: pip install -r requirements.txt && npm install && npm run build
+    startCommand: python app.py
+    envVars:
+      - key: PORT
+        value: 5000
