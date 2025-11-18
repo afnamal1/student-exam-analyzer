@@ -282,36 +282,45 @@ def extract_student_data(pdf_path):
     return students
 
 if __name__ == '__main__':
-    students = extract_student_data('YAHO 8LER LİSTE.pdf')
+    import sys
     
-    # İlk birkaç öğrenciyi detaylı göster
-    if students:
-        print("İlk 3 öğrenci detayı:")
-        for i, student in enumerate(students[:3], 1):
-            print(f"\n{i}. {student['name']}")
-            print(f"   Öğrenci No: {student.get('ogrenci_no', 'N/A')}")
-            print(f"   Sınıf: {student.get('sinif', 'N/A')}")
-            print(f"   Ortalama: {student['average']:.2f}")
-            if 'dersler' in student:
-                print("   Dersler:")
-                for ders, data in student['dersler'].items():
-                    print(f"     {ders}: D={data['dogru']}, Y={data['yanlis']}, N={data['net']:.2f}")
-            if student.get('lgs_puani'):
-                print(f"   LGS Puanı: {student['lgs_puani']:.3f}")
-            if student.get('dereceler'):
-                print("   Dereceler:")
-                for derece, data in student['dereceler'].items():
-                    if isinstance(data, dict):
-                        sira = data.get('sira', 'N/A')
-                        yuzde = data.get('yuzde')
-                        if yuzde:
-                            print(f"     {derece}: {sira} (%{yuzde:.2f})")
-                        else:
-                            print(f"     {derece}: {sira}")
-        print()
+    pdf_files = [
+        ('YAHO 8LER LİSTE.pdf', 'yaho_student_data.json', 'YAHO 8. Sınıf Sınav Sonuçları'),
+        ('AYDIN LİSTE VE KARNE.pdf', 'aydin_student_data.json', 'AYDIN Sınav Sonuçları'),
+    ]
     
-    # JSON'a kaydet
-    with open('student_data.json', 'w', encoding='utf-8') as f:
-        json.dump(students, f, ensure_ascii=False, indent=2)
+    for pdf_path, json_filename, exam_name in pdf_files:
+        try:
+            print(f"\n{'='*60}")
+            print(f"📄 {exam_name} işleniyor...")
+            print(f"{'='*60}\n")
+            
+            students = extract_student_data(pdf_path)
+            
+            if students:
+                print(f"✅ {len(students)} öğrenci bulundu.")
+                
+                json_path = json_filename
+                public_json_path = f'public/{json_filename}'
+                
+                with open(json_path, 'w', encoding='utf-8') as f:
+                    json.dump(students, f, ensure_ascii=False, indent=2)
+                
+                import os
+                os.makedirs('public', exist_ok=True)
+                with open(public_json_path, 'w', encoding='utf-8') as f:
+                    json.dump(students, f, ensure_ascii=False, indent=2)
+                
+                print(f"✅ Veriler '{json_path}' ve '{public_json_path}' dosyalarına kaydedildi.")
+            else:
+                print(f"⚠️ {pdf_path} dosyasından öğrenci bulunamadı.")
+        except FileNotFoundError:
+            print(f"⚠️ {pdf_path} dosyası bulunamadı, atlanıyor...")
+        except Exception as e:
+            print(f"❌ {pdf_path} işlenirken hata: {e}")
+            import traceback
+            traceback.print_exc()
     
-    print(f"✅ {len(students)} öğrenci verisi 'student_data.json' dosyasına kaydedildi.")
+    print(f"\n{'='*60}")
+    print("✅ Tüm PDF dosyaları işlendi!")
+    print(f"{'='*60}\n")

@@ -21,6 +21,9 @@ import {
   Divider,
   IconButton,
   Tooltip,
+  Select,
+  MenuItem,
+  FormControl,
 } from '@mui/material';
 import {
   Search as SearchIcon,
@@ -65,6 +68,11 @@ const theme = createTheme({
   },
 });
 
+const examOptions = [
+  { value: 'yaho_student_data.json', label: 'YAHO 8. Sınıf Sınav Sonuçları' },
+  { value: 'aydin_student_data.json', label: 'AYDIN Sınav Sonuçları' },
+];
+
 function App() {
   const [students, setStudents] = useState([]);
   const [filteredStudents, setFilteredStudents] = useState([]);
@@ -73,10 +81,11 @@ function App() {
   const [showComparison, setShowComparison] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [loading, setLoading] = useState(true);
+  const [selectedExam, setSelectedExam] = useState(examOptions[0].value);
 
   useEffect(() => {
     loadData();
-  }, []);
+  }, [selectedExam]);
 
   useEffect(() => {
     if (searchQuery.trim() === '') {
@@ -90,9 +99,14 @@ function App() {
   }, [searchQuery, students]);
 
   const loadData = async () => {
+    setLoading(true);
+    setSelectedStudent(null);
+    setComparisonStudents([]);
+    setShowComparison(false);
+
     try {
       const timestamp = new Date().getTime();
-      const response = await fetch(`/student_data.json?t=${timestamp}`, {
+      const response = await fetch(`/${selectedExam}?t=${timestamp}`, {
         cache: 'no-cache',
       });
 
@@ -114,6 +128,10 @@ function App() {
       console.error('Veri yükleme hatası:', error);
       setLoading(false);
     }
+  };
+
+  const handleExamChange = (event) => {
+    setSelectedExam(event.target.value);
   };
 
   const handleStudentSelect = (student) => {
@@ -187,6 +205,7 @@ function App() {
                 alignItems: 'center',
                 justifyContent: 'space-between',
                 gap: 2,
+                flexWrap: 'wrap',
               }}
             >
               <Box sx={{ display: 'flex', alignItems: 'center', gap: 1.5 }}>
@@ -208,7 +227,46 @@ function App() {
                 </Box>
               </Box>
 
-              <Box sx={{ flex: 1, maxWidth: 400 }}>
+              <Box
+                sx={{
+                  display: 'flex',
+                  gap: 2,
+                  alignItems: 'center',
+                  flex: 1,
+                  maxWidth: 600,
+                }}
+              >
+                <FormControl
+                  size="small"
+                  sx={{
+                    minWidth: 250,
+                    bgcolor: 'white',
+                    borderRadius: 1.5,
+                    '& .MuiOutlinedInput-root': {
+                      '& fieldset': {
+                        border: 'none',
+                      },
+                    },
+                  }}
+                >
+                  <Select
+                    value={selectedExam}
+                    onChange={handleExamChange}
+                    sx={{
+                      color: 'text.primary',
+                      '& .MuiSelect-select': {
+                        py: 1,
+                      },
+                    }}
+                  >
+                    {examOptions.map((option) => (
+                      <MenuItem key={option.value} value={option.value}>
+                        {option.label}
+                      </MenuItem>
+                    ))}
+                  </Select>
+                </FormControl>
+
                 <TextField
                   fullWidth
                   size="small"
