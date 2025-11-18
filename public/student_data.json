@@ -1,0 +1,10727 @@
+[
+  {
+    "name": "ADEM SAMİ DAŞ",
+    "scores": [
+      45.0,
+      50.0,
+      50.0,
+      43.35,
+      15.0,
+      66.65
+    ],
+    "average": 45.0,
+    "toplam_net": 54.0,
+    "ogrenci_no": 16,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 6,
+        "net": 9.0
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 6,
+        "yanlis": 9,
+        "net": 3.0
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 61,
+        "yanlis": 21,
+        "net": 54.0
+      }
+    },
+    "lgs_puani": 348.091,
+    "dereceler": {
+      "sinif": {
+        "sira": 11
+      },
+      "okul": {
+        "sira": 56
+      },
+      "il": {
+        "sira": 272
+      },
+      "genel": {
+        "sira": 272
+      }
+    }
+  },
+  {
+    "name": "AHMET ARİF SABIRLA",
+    "scores": [
+      48.35,
+      30.0,
+      38.35,
+      11.65,
+      21.65
+    ],
+    "average": 30.0,
+    "toplam_net": 29.0,
+    "ogrenci_no": 616,
+    "sinif": "R8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 12,
+        "yanlis": 7,
+        "net": 9.67
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 2,
+        "net": 2.33
+      },
+      "matematik": {
+        "dogru": 0,
+        "yanlis": 3,
+        "net": -1.0
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 2,
+        "net": 4.33
+      },
+      "toplam": {
+        "dogru": 35,
+        "yanlis": 18,
+        "net": 29.0
+      }
+    },
+    "lgs_puani": 276.435,
+    "dereceler": {
+      "sinif": {
+        "sira": 12
+      },
+      "okul": {
+        "sira": 92
+      },
+      "il": {
+        "sira": 540
+      },
+      "genel": {
+        "sira": 540
+      }
+    }
+  },
+  {
+    "name": "AHMET BAYSAL",
+    "scores": [
+      10.0,
+      21.65,
+      28.35,
+      21.65,
+      16.65,
+      38.35
+    ],
+    "average": 22.78,
+    "toplam_net": 27.33,
+    "ogrenci_no": 17,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 2,
+        "net": 4.33
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 1,
+        "net": 5.67
+      },
+      "ingilizce": {
+        "dogru": 5,
+        "yanlis": 2,
+        "net": 4.33
+      },
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "fen": {
+        "dogru": 9,
+        "yanlis": 4,
+        "net": 7.67
+      },
+      "toplam": {
+        "dogru": 34,
+        "yanlis": 20,
+        "net": 27.33
+      }
+    },
+    "lgs_puani": 274.528,
+    "dereceler": {
+      "sinif": {
+        "sira": 10
+      },
+      "okul": {
+        "sira": 94
+      },
+      "il": {
+        "sira": 550
+      },
+      "genel": {
+        "sira": 550
+      }
+    }
+  },
+  {
+    "name": "AHMET EMİN YAVAŞ",
+    "scores": [
+      3.35,
+      16.65,
+      53.35,
+      20.0
+    ],
+    "average": 23.34,
+    "toplam_net": 14.0,
+    "ogrenci_no": 18,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 2,
+        "yanlis": 18,
+        "net": -4.0
+      },
+      "tarih": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "matematik": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "fen": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "toplam": {
+        "dogru": 33,
+        "yanlis": 57,
+        "net": 14.0
+      }
+    },
+    "lgs_puani": 251.354,
+    "dereceler": {
+      "sinif": {
+        "sira": 22
+      },
+      "okul": {
+        "sira": 124
+      },
+      "il": {
+        "sira": 673
+      },
+      "genel": {
+        "sira": 673
+      }
+    }
+  },
+  {
+    "name": "AHMET ERENVBİC*N",
+    "scores": [
+      66.65,
+      36.65,
+      43.35,
+      50.0,
+      61.65,
+      46.65
+    ],
+    "average": 50.82,
+    "toplam_net": 60.99,
+    "ogrenci_no": 25,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 8,
+        "net": 9.33
+      },
+      "toplam": {
+        "dogru": 68,
+        "yanlis": 21,
+        "net": 60.99
+      }
+    },
+    "lgs_puani": 388.572,
+    "dereceler": {
+      "sinif": {
+        "sira": 6
+      },
+      "okul": {
+        "sira": 35
+      },
+      "il": {
+        "sira": 146
+      },
+      "genel": {
+        "sira": 146
+      }
+    }
+  },
+  {
+    "name": "AHMETHAN TANIL",
+    "scores": [
+      38.35,
+      50.0,
+      40.0,
+      38.35,
+      18.35,
+      68.35
+    ],
+    "average": 42.23,
+    "toplam_net": 50.68,
+    "ogrenci_no": 27,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 7,
+        "net": 7.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 0,
+        "net": 8.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 4,
+        "net": 3.67
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 4,
+        "net": 13.67
+      },
+      "toplam": {
+        "dogru": 56,
+        "yanlis": 16,
+        "net": 50.68
+      }
+    },
+    "lgs_puani": 341.832,
+    "dereceler": {
+      "sinif": {
+        "sira": 12
+      },
+      "okul": {
+        "sira": 60
+      },
+      "il": {
+        "sira": 287
+      },
+      "genel": {
+        "sira": 287
+      }
+    }
+  },
+  {
+    "name": "AKGÜL ELİF",
+    "scores": [
+      53.35,
+      16.65,
+      36.65,
+      50.0,
+      28.35,
+      53.35
+    ],
+    "average": 39.73,
+    "toplam_net": 47.67,
+    "ogrenci_no": 199,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 10,
+        "net": 5.67
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "toplam": {
+        "dogru": 58,
+        "yanlis": 31,
+        "net": 47.67
+      }
+    },
+    "lgs_puani": 342.581,
+    "dereceler": {
+      "sinif": {
+        "sira": 16
+      },
+      "okul": {
+        "sira": 59
+      },
+      "il": {
+        "sira": 285
+      },
+      "genel": {
+        "sira": 285
+      }
+    }
+  },
+  {
+    "name": "ALİ ÖZAYDIN",
+    "scores": [
+      60.0,
+      23.35,
+      30.0,
+      36.65,
+      3.35,
+      48.35
+    ],
+    "average": 33.62,
+    "toplam_net": 40.34,
+    "ogrenci_no": 34,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 4,
+        "net": 0.67
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 7,
+        "net": 9.67
+      },
+      "toplam": {
+        "dogru": 49,
+        "yanlis": 26,
+        "net": 40.34
+      }
+    },
+    "lgs_puani": 316.805,
+    "dereceler": {
+      "sinif": {
+        "sira": 16
+      },
+      "okul": {
+        "sira": 72
+      },
+      "il": {
+        "sira": 367
+      },
+      "genel": {
+        "sira": 367
+      }
+    }
+  },
+  {
+    "name": "ARSLAN AYSİMA",
+    "scores": [
+      61.65,
+      30.0,
+      36.65,
+      50.0,
+      31.65,
+      40.0
+    ],
+    "average": 41.66,
+    "toplam_net": 49.99,
+    "ogrenci_no": 52,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 8,
+        "net": 6.33
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 59,
+        "yanlis": 27,
+        "net": 49.99
+      }
+    },
+    "lgs_puani": 346.753,
+    "dereceler": {
+      "sinif": {
+        "sira": 9
+      },
+      "okul": {
+        "sira": 57
+      },
+      "il": {
+        "sira": 273
+      },
+      "genel": {
+        "sira": 273
+      }
+    }
+  },
+  {
+    "name": "ASUDE AKGÜN",
+    "scores": [
+      41.65,
+      18.35,
+      43.35,
+      36.65,
+      55.0
+    ],
+    "average": 39.0,
+    "toplam_net": 39.0,
+    "ogrenci_no": 47,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 8,
+        "net": 8.33
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 4,
+        "net": 3.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 12,
+        "net": 0.0
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 6,
+        "net": 11.0
+      },
+      "toplam": {
+        "dogru": 50,
+        "yanlis": 33,
+        "net": 39.0
+      }
+    },
+    "lgs_puani": 306.961,
+    "dereceler": {
+      "sinif": {
+        "sira": 4
+      },
+      "okul": {
+        "sira": 76
+      },
+      "il": {
+        "sira": 399
+      },
+      "genel": {
+        "sira": 399
+      }
+    }
+  },
+  {
+    "name": "AYAZ ŞEN",
+    "scores": [
+      36.65,
+      50.0,
+      50.0,
+      40.0
+    ],
+    "average": 44.16,
+    "toplam_net": 34.0,
+    "ogrenci_no": 49,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 48,
+        "yanlis": 42,
+        "net": 34.0
+      }
+    },
+    "lgs_puani": 267.732,
+    "dereceler": {
+      "sinif": {
+        "sira": 13
+      },
+      "okul": {
+        "sira": 104
+      },
+      "il": {
+        "sira": 594
+      },
+      "genel": {
+        "sira": 594
+      }
+    }
+  },
+  {
+    "name": "AYDIN AYŞE",
+    "scores": [
+      80.0,
+      43.35,
+      43.35,
+      50.0,
+      73.35,
+      73.35
+    ],
+    "average": 60.57,
+    "toplam_net": 72.68,
+    "ogrenci_no": 10,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 77,
+        "yanlis": 13,
+        "net": 72.68
+      }
+    },
+    "lgs_puani": 433.387,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 9
+      },
+      "il": {
+        "sira": 55
+      },
+      "genel": {
+        "sira": 55
+      }
+    }
+  },
+  {
+    "name": "AYDIN YAHYA",
+    "scores": [
+      23.35,
+      30.0,
+      36.65,
+      23.35,
+      5.0,
+      28.35
+    ],
+    "average": 24.45,
+    "toplam_net": 29.34,
+    "ogrenci_no": 134,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 7,
+        "net": 4.67
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 9,
+        "net": 1.0
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 4,
+        "net": 5.67
+      },
+      "toplam": {
+        "dogru": 39,
+        "yanlis": 29,
+        "net": 29.34
+      }
+    },
+    "lgs_puani": 273.315,
+    "dereceler": {
+      "sinif": {
+        "sira": 11
+      },
+      "okul": {
+        "sira": 96
+      },
+      "il": {
+        "sira": 558
+      },
+      "genel": {
+        "sira": 558
+      }
+    }
+  },
+  {
+    "name": "AYŞE ŞEYMA KIR",
+    "scores": [
+      36.65,
+      50.0,
+      43.35,
+      40.0
+    ],
+    "average": 42.5,
+    "toplam_net": 34.0,
+    "ogrenci_no": 55,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 48,
+        "yanlis": 42,
+        "net": 34.0
+      }
+    },
+    "lgs_puani": 271.868,
+    "dereceler": {
+      "sinif": {
+        "sira": 12
+      },
+      "okul": {
+        "sira": 99
+      },
+      "il": {
+        "sira": 564
+      },
+      "genel": {
+        "sira": 564
+      }
+    }
+  },
+  {
+    "name": "BELİNAY KASIMOĞLU",
+    "scores": [
+      33.35,
+      3.35,
+      23.35,
+      23.35,
+      33.35
+    ],
+    "average": 23.35,
+    "toplam_net": 22.02,
+    "ogrenci_no": 98,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "toplam": {
+        "dogru": 39,
+        "yanlis": 51,
+        "net": 22.02
+      }
+    },
+    "lgs_puani": 260.54,
+    "dereceler": {
+      "sinif": {
+        "sira": 13
+      },
+      "okul": {
+        "sira": 112
+      },
+      "il": {
+        "sira": 631
+      },
+      "genel": {
+        "sira": 631
+      }
+    }
+  },
+  {
+    "name": "BELİNAY ORHAN",
+    "scores": [
+      48.35,
+      10.0,
+      23.35,
+      50.0,
+      20.0
+    ],
+    "average": 30.34,
+    "toplam_net": 27.67,
+    "ogrenci_no": 63,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 12,
+        "yanlis": 7,
+        "net": 9.67
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "fen": {
+        "dogru": 3,
+        "yanlis": 17,
+        "net": -2.67
+      },
+      "toplam": {
+        "dogru": 43,
+        "yanlis": 46,
+        "net": 27.67
+      }
+    },
+    "lgs_puani": 271.732,
+    "dereceler": {
+      "sinif": {
+        "sira": 14
+      },
+      "okul": {
+        "sira": 100
+      },
+      "il": {
+        "sira": 567
+      },
+      "genel": {
+        "sira": 567
+      }
+    }
+  },
+  {
+    "name": "BERAT TATLI",
+    "scores": [
+      36.65,
+      50.0,
+      1.6500000000000001
+    ],
+    "average": 29.43,
+    "toplam_net": 11.0,
+    "ogrenci_no": 64,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 3,
+        "yanlis": 16,
+        "net": -2.33
+      },
+      "tarih": {
+        "dogru": 1,
+        "yanlis": 9,
+        "net": -2.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 16,
+        "net": -2.33
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 14,
+        "net": 0.33
+      },
+      "toplam": {
+        "dogru": 30,
+        "yanlis": 57,
+        "net": 11.0
+      }
+    },
+    "lgs_puani": 202.704,
+    "dereceler": {
+      "sinif": {
+        "sira": 18
+      },
+      "okul": {
+        "sira": 161
+      },
+      "il": {
+        "sira": 911
+      },
+      "genel": {
+        "sira": 911
+      }
+    }
+  },
+  {
+    "name": "BERAT UFUK KAYA",
+    "scores": [
+      86.64999999999999,
+      50.0,
+      43.35,
+      43.35,
+      86.64999999999999,
+      100.0
+    ],
+    "average": 68.33,
+    "toplam_net": 82.0,
+    "ogrenci_no": 65,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "fen": {
+        "dogru": 20,
+        "yanlis": 0,
+        "net": 20.0
+      },
+      "toplam": {
+        "dogru": 84,
+        "yanlis": 6,
+        "net": 82.0
+      }
+    },
+    "lgs_puani": 472.228,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 1
+      },
+      "il": {
+        "sira": 7
+      },
+      "genel": {
+        "sira": 7
+      }
+    }
+  },
+  {
+    "name": "BERAT ŞAŞMAZ",
+    "scores": [
+      20.0,
+      25.0,
+      36.65,
+      10.0,
+      15.0
+    ],
+    "average": 21.33,
+    "toplam_net": 19.0,
+    "ogrenci_no": 975,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 9,
+        "net": 4.0
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 3,
+        "net": 5.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 0,
+        "net": 2.0
+      },
+      "matematik": {
+        "dogru": 0,
+        "yanlis": 7,
+        "net": -2.33
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 12,
+        "net": 3.0
+      },
+      "toplam": {
+        "dogru": 30,
+        "yanlis": 33,
+        "net": 19.0
+      }
+    },
+    "lgs_puani": 238.95,
+    "dereceler": {
+      "sinif": {
+        "sira": 19
+      },
+      "okul": {
+        "sira": 133
+      },
+      "il": {
+        "sira": 751
+      },
+      "genel": {
+        "sira": 751
+      }
+    }
+  },
+  {
+    "name": "BERKAY CEYLAN",
+    "scores": [
+      26.65,
+      20.0,
+      31.65,
+      36.65,
+      16.65,
+      26.65
+    ],
+    "average": 26.38,
+    "toplam_net": 31.65,
+    "ogrenci_no": 68,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 8,
+        "net": 5.33
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 3,
+        "net": 4.0
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 2,
+        "net": 6.33
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 2,
+        "net": 3.33
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 5,
+        "net": 5.33
+      },
+      "toplam": {
+        "dogru": 39,
+        "yanlis": 22,
+        "net": 31.65
+      }
+    },
+    "lgs_puani": 284.371,
+    "dereceler": {
+      "sinif": {
+        "sira": 17
+      },
+      "okul": {
+        "sira": 87
+      },
+      "il": {
+        "sira": 504
+      },
+      "genel": {
+        "sira": 504
+      }
+    }
+  },
+  {
+    "name": "BERKE ÖNDER",
+    "scores": [
+      53.35,
+      36.65,
+      50.0,
+      50.0,
+      35.0,
+      33.35
+    ],
+    "average": 43.06,
+    "toplam_net": 51.67,
+    "ogrenci_no": 76,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 6,
+        "net": 7.0
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "toplam": {
+        "dogru": 60,
+        "yanlis": 25,
+        "net": 51.67
+      }
+    },
+    "lgs_puani": 344.963,
+    "dereceler": {
+      "sinif": {
+        "sira": 6
+      },
+      "okul": {
+        "sira": 58
+      },
+      "il": {
+        "sira": 277
+      },
+      "genel": {
+        "sira": 277
+      }
+    }
+  },
+  {
+    "name": "BERİL KANTOĞLU",
+    "scores": [
+      48.35,
+      26.65,
+      33.35,
+      1.6500000000000001
+    ],
+    "average": 27.5,
+    "toplam_net": 17.66,
+    "ogrenci_no": 894,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 12,
+        "yanlis": 7,
+        "net": 9.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 2,
+        "net": 5.33
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 1,
+        "net": 6.67
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 2,
+        "net": 0.33
+      },
+      "matematik": {
+        "dogru": 0,
+        "yanlis": 2,
+        "net": -0.67
+      },
+      "fen": {
+        "dogru": 2,
+        "yanlis": 17,
+        "net": -3.67
+      },
+      "toplam": {
+        "dogru": 28,
+        "yanlis": 31,
+        "net": 17.66
+      }
+    },
+    "lgs_puani": 240.827,
+    "dereceler": {
+      "sinif": {
+        "sira": 9
+      },
+      "okul": {
+        "sira": 130
+      },
+      "il": {
+        "sira": 732
+      },
+      "genel": {
+        "sira": 732
+      }
+    }
+  },
+  {
+    "name": "BERİN* GÜZELCE",
+    "scores": [
+      23.35,
+      36.65,
+      30.0,
+      33.35
+    ],
+    "average": 30.84,
+    "toplam_net": 24.0,
+    "ogrenci_no": 778,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 14,
+        "net": -0.67
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "toplam": {
+        "dogru": 40,
+        "yanlis": 48,
+        "net": 24.0
+      }
+    },
+    "lgs_puani": 250.051,
+    "dereceler": {
+      "sinif": {
+        "sira": 15
+      },
+      "okul": {
+        "sira": 125
+      },
+      "il": {
+        "sira": 680
+      },
+      "genel": {
+        "sira": 680
+      }
+    }
+  },
+  {
+    "name": "BETÜL TANRIKULU",
+    "scores": [
+      13.35,
+      10.0,
+      23.35,
+      20.0,
+      40.0
+    ],
+    "average": 21.34,
+    "toplam_net": 20.67,
+    "ogrenci_no": 494,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 38,
+        "yanlis": 52,
+        "net": 20.67
+      }
+    },
+    "lgs_puani": 268.144,
+    "dereceler": {
+      "sinif": {
+        "sira": 10
+      },
+      "okul": {
+        "sira": 103
+      },
+      "il": {
+        "sira": 592
+      },
+      "genel": {
+        "sira": 592
+      }
+    }
+  },
+  {
+    "name": "BOSTAN ZEYNEP",
+    "scores": [
+      46.65,
+      30.0,
+      18.35,
+      8.35,
+      6.65
+    ],
+    "average": 22.0,
+    "toplam_net": 21.0,
+    "ogrenci_no": 441,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 12,
+        "yanlis": 8,
+        "net": 9.33
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 4,
+        "net": 3.67
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 1,
+        "net": 1.67
+      },
+      "matematik": {
+        "dogru": 6,
+        "yanlis": 14,
+        "net": 1.33
+      },
+      "fen": {
+        "dogru": 2,
+        "yanlis": 9,
+        "net": -1.0
+      },
+      "toplam": {
+        "dogru": 34,
+        "yanlis": 39,
+        "net": 21.0
+      }
+    },
+    "lgs_puani": 256.835,
+    "dereceler": {
+      "sinif": {
+        "sira": 20
+      },
+      "okul": {
+        "sira": 116
+      },
+      "il": {
+        "sira": 650
+      },
+      "genel": {
+        "sira": 650
+      }
+    }
+  },
+  {
+    "name": "BOZKURT SENA",
+    "scores": [
+      75.0,
+      36.65,
+      38.35,
+      43.35,
+      1.6500000000000001,
+      40.0
+    ],
+    "average": 39.17,
+    "toplam_net": 47.0,
+    "ogrenci_no": 711,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 16,
+        "yanlis": 3,
+        "net": 15.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 1,
+        "yanlis": 2,
+        "net": 0.33
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 6,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 52,
+        "yanlis": 15,
+        "net": 47.0
+      }
+    },
+    "lgs_puani": 330.783,
+    "dereceler": {
+      "sinif": {
+        "sira": 15
+      },
+      "okul": {
+        "sira": 68
+      },
+      "il": {
+        "sira": 330
+      },
+      "genel": {
+        "sira": 330
+      }
+    }
+  },
+  {
+    "name": "BUĞLEM NESİBE BAYS AL-A",
+    "scores": [
+      66.65,
+      36.65,
+      36.65,
+      43.35,
+      10.0,
+      40.0
+    ],
+    "average": 38.88,
+    "toplam_net": 46.66,
+    "ogrenci_no": 104,
+    "sinif": "A8L-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 9,
+        "net": 2.0
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 56,
+        "yanlis": 28,
+        "net": 46.66
+      }
+    },
+    "lgs_puani": 331.051,
+    "dereceler": {
+      "sinif": {
+        "sira": 8
+      },
+      "okul": {
+        "sira": 66
+      },
+      "il": {
+        "sira": 327
+      },
+      "genel": {
+        "sira": 327
+      }
+    }
+  },
+  {
+    "name": "BÜŞRİ SELEK",
+    "scores": [
+      6.65,
+      5.0
+    ],
+    "average": 5.83,
+    "toplam_net": 1.67,
+    "ogrenci_no": 454,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 4,
+        "yanlis": 13,
+        "net": -0.33
+      },
+      "tarih": {
+        "dogru": 3,
+        "yanlis": 5,
+        "net": 1.33
+      },
+      "din": {
+        "dogru": 3,
+        "yanlis": 6,
+        "net": 1.0
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 7,
+        "net": -0.33
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 12,
+        "net": 0.0
+      },
+      "fen": {
+        "dogru": 4,
+        "yanlis": 12,
+        "net": 0.0
+      },
+      "toplam": {
+        "dogru": 20,
+        "yanlis": 55,
+        "net": 1.67
+      }
+    },
+    "lgs_puani": 198.863,
+    "dereceler": {
+      "sinif": {
+        "sira": 19
+      },
+      "okul": {
+        "sira": 163
+      },
+      "il": {
+        "sira": 929
+      },
+      "genel": {
+        "sira": 929
+      }
+    }
+  },
+  {
+    "name": "CAN OKAN",
+    "scores": [
+      55.0,
+      36.65,
+      43.35,
+      50.0,
+      45.0,
+      53.35
+    ],
+    "average": 47.23,
+    "toplam_net": 56.67,
+    "ogrenci_no": 407,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 6,
+        "net": 11.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 10,
+        "yanlis": 3,
+        "net": 9.0
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 4,
+        "net": 10.67
+      },
+      "toplam": {
+        "dogru": 62,
+        "yanlis": 16,
+        "net": 56.67
+      }
+    },
+    "lgs_puani": 368.733,
+    "dereceler": {
+      "sinif": {
+        "sira": 12
+      },
+      "okul": {
+        "sira": 41
+      },
+      "il": {
+        "sira": 193
+      },
+      "genel": {
+        "sira": 193
+      }
+    }
+  },
+  {
+    "name": "CANKENT NİSA",
+    "scores": [
+      53.35,
+      30.0,
+      25.0
+    ],
+    "average": 36.12,
+    "toplam_net": 21.34,
+    "ogrenci_no": 394,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 3,
+        "net": 5.0
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 4,
+        "net": -0.33
+      },
+      "toplam": {
+        "dogru": 27,
+        "yanlis": 17,
+        "net": 21.34
+      }
+    },
+    "lgs_puani": 259.388,
+    "dereceler": {
+      "sinif": {
+        "sira": 19
+      },
+      "okul": {
+        "sira": 113
+      },
+      "il": {
+        "sira": 636
+      },
+      "genel": {
+        "sira": 636
+      }
+    }
+  },
+  {
+    "name": "CANKENT NİSA",
+    "scores": [
+      5.0,
+      10.0
+    ],
+    "average": 7.5,
+    "toplam_net": 3.0,
+    "ogrenci_no": 0,
+    "sinif": "8-G",
+    "dersler": {
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 9,
+        "net": 1.0
+      },
+      "fen": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "toplam": {
+        "dogru": 8,
+        "yanlis": 15,
+        "net": 3.0
+      }
+    },
+    "lgs_puani": 209.031,
+    "dereceler": {
+      "sinif": {
+        "sira": 23
+      },
+      "okul": {
+        "sira": 156
+      },
+      "il": {
+        "sira": 883
+      },
+      "genel": {
+        "sira": 883
+      }
+    }
+  },
+  {
+    "name": "CEMRE SU SAKIT",
+    "scores": [
+      80.0,
+      43.35,
+      50.0,
+      50.0,
+      75.0,
+      66.65
+    ],
+    "average": 60.83,
+    "toplam_net": 73.0,
+    "ogrenci_no": 109,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 16,
+        "yanlis": 3,
+        "net": 15.0
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 77,
+        "yanlis": 12,
+        "net": 73.0
+      }
+    },
+    "lgs_puani": 432.169,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 10
+      },
+      "il": {
+        "sira": 59
+      },
+      "genel": {
+        "sira": 59
+      }
+    }
+  },
+  {
+    "name": "CEMRE YILMAZ",
+    "scores": [
+      16.65,
+      45.0,
+      26.65,
+      23.35,
+      65.0
+    ],
+    "average": 35.33,
+    "toplam_net": 35.0,
+    "ogrenci_no": 110,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 11,
+        "net": 3.33
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 2,
+        "net": 5.33
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 10,
+        "net": -0.33
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 3,
+        "net": 13.0
+      },
+      "toplam": {
+        "dogru": 45,
+        "yanlis": 30,
+        "net": 35.0
+      }
+    },
+    "lgs_puani": 291.74,
+    "dereceler": {
+      "sinif": {
+        "sira": 7
+      },
+      "okul": {
+        "sira": 83
+      },
+      "il": {
+        "sira": 467
+      },
+      "genel": {
+        "sira": 467
+      }
+    }
+  },
+  {
+    "name": "CENGİZ EREN DÖNME Z",
+    "scores": [
+      60.0,
+      50.0,
+      38.35,
+      43.35,
+      45.0,
+      86.64999999999999
+    ],
+    "average": 53.89,
+    "toplam_net": 64.67,
+    "ogrenci_no": 114,
+    "sinif": "Z8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 11,
+        "yanlis": 6,
+        "net": 9.0
+      },
+      "fen": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "toplam": {
+        "dogru": 70,
+        "yanlis": 16,
+        "net": 64.67
+      }
+    },
+    "lgs_puani": 399.526,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 25
+      },
+      "il": {
+        "sira": 117
+      },
+      "genel": {
+        "sira": 117
+      }
+    }
+  },
+  {
+    "name": "CEREN NAZLI SEVİNÇ",
+    "scores": [
+      40.0,
+      16.65,
+      43.35,
+      50.0
+    ],
+    "average": 37.5,
+    "toplam_net": 30.0,
+    "ogrenci_no": 116,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "toplam": {
+        "dogru": 35,
+        "yanlis": 15,
+        "net": 30.0
+      }
+    },
+    "lgs_puani": 266.308,
+    "dereceler": {
+      "sinif": {
+        "sira": 8
+      },
+      "okul": {
+        "sira": 106
+      },
+      "il": {
+        "sira": 603
+      },
+      "genel": {
+        "sira": 603
+      }
+    }
+  },
+  {
+    "name": "CEREN NAZLI SEVİNÇ",
+    "scores": [
+      10.0
+    ],
+    "average": 10.0,
+    "toplam_net": 0.33,
+    "ogrenci_no": 0,
+    "sinif": "8-C",
+    "dersler": {
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 11,
+        "net": -1.67
+      },
+      "fen": {
+        "dogru": 6,
+        "yanlis": 12,
+        "net": 2.0
+      },
+      "toplam": {
+        "dogru": 8,
+        "yanlis": 23,
+        "net": 0.33
+      }
+    },
+    "lgs_puani": 196.678,
+    "dereceler": {
+      "sinif": {
+        "sira": 14
+      },
+      "okul": {
+        "sira": 165
+      },
+      "il": {
+        "sira": 933
+      },
+      "genel": {
+        "sira": 933
+      }
+    }
+  },
+  {
+    "name": "CEYDA ARSLAN",
+    "scores": [
+      25.0,
+      18.35,
+      30.0,
+      43.35,
+      11.65,
+      35.0
+    ],
+    "average": 27.22,
+    "toplam_net": 32.67,
+    "ogrenci_no": 152,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 9,
+        "net": 5.0
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 4,
+        "net": 3.67
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 6,
+        "yanlis": 11,
+        "net": 2.33
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 9,
+        "net": 7.0
+      },
+      "toplam": {
+        "dogru": 45,
+        "yanlis": 37,
+        "net": 32.67
+      }
+    },
+    "lgs_puani": 285.711,
+    "dereceler": {
+      "sinif": {
+        "sira": 11
+      },
+      "okul": {
+        "sira": 86
+      },
+      "il": {
+        "sira": 499
+      },
+      "genel": {
+        "sira": 499
+      }
+    }
+  },
+  {
+    "name": "DAMLA KÜÇÜK",
+    "scores": [
+      80.0,
+      43.35,
+      38.35,
+      50.0,
+      41.65,
+      73.35
+    ],
+    "average": 54.45,
+    "toplam_net": 65.34,
+    "ogrenci_no": 154,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 2,
+        "net": 8.33
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 69,
+        "yanlis": 11,
+        "net": 65.34
+      }
+    },
+    "lgs_puani": 402.23,
+    "dereceler": {
+      "sinif": {
+        "sira": 4
+      },
+      "okul": {
+        "sira": 24
+      },
+      "il": {
+        "sira": 114
+      },
+      "genel": {
+        "sira": 114
+      }
+    }
+  },
+  {
+    "name": "DAŞ SÜMEYYE",
+    "scores": [
+      66.65,
+      50.0,
+      50.0,
+      43.35,
+      51.65,
+      73.35
+    ],
+    "average": 55.83,
+    "toplam_net": 67.0,
+    "ogrenci_no": 596,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 12,
+        "yanlis": 5,
+        "net": 10.33
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 72,
+        "yanlis": 15,
+        "net": 67.0
+      }
+    },
+    "lgs_puani": 405.048,
+    "dereceler": {
+      "sinif": {
+        "sira": 6
+      },
+      "okul": {
+        "sira": 22
+      },
+      "il": {
+        "sira": 104
+      },
+      "genel": {
+        "sira": 104
+      }
+    }
+  },
+  {
+    "name": "DEFNE ÖZ",
+    "scores": [
+      93.35000000000001,
+      43.35,
+      50.0,
+      36.65,
+      55.0,
+      86.64999999999999
+    ],
+    "average": 60.83,
+    "toplam_net": 73.0,
+    "ogrenci_no": 156,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 19,
+        "yanlis": 1,
+        "net": 18.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 12,
+        "yanlis": 3,
+        "net": 11.0
+      },
+      "fen": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "toplam": {
+        "dogru": 76,
+        "yanlis": 9,
+        "net": 73.0
+      }
+    },
+    "lgs_puani": 436.07,
+    "dereceler": {
+      "sinif": {
+        "sira": 3
+      },
+      "okul": {
+        "sira": 7
+      },
+      "il": {
+        "sira": 48
+      },
+      "genel": {
+        "sira": 48
+      }
+    }
+  },
+  {
+    "name": "DENİZ YERLİ",
+    "scores": [
+      66.65,
+      36.65,
+      43.35,
+      50.0,
+      46.65,
+      86.64999999999999
+    ],
+    "average": 54.99,
+    "toplam_net": 65.99,
+    "ogrenci_no": 158,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 11,
+        "yanlis": 5,
+        "net": 9.33
+      },
+      "fen": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "toplam": {
+        "dogru": 71,
+        "yanlis": 15,
+        "net": 65.99
+      }
+    },
+    "lgs_puani": 405.795,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 19
+      },
+      "il": {
+        "sira": 100
+      },
+      "genel": {
+        "sira": 100
+      }
+    }
+  },
+  {
+    "name": "DERE BERKAY",
+    "scores": [
+      80.0,
+      43.35,
+      43.35,
+      50.0,
+      63.35,
+      86.64999999999999
+    ],
+    "average": 61.12,
+    "toplam_net": 73.34,
+    "ogrenci_no": 70,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 14,
+        "yanlis": 4,
+        "net": 12.67
+      },
+      "fen": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "toplam": {
+        "dogru": 77,
+        "yanlis": 11,
+        "net": 73.34
+      }
+    },
+    "lgs_puani": 434.495,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 8
+      },
+      "il": {
+        "sira": 53
+      },
+      "genel": {
+        "sira": 53
+      }
+    }
+  },
+  {
+    "name": "DERYA SARI",
+    "scores": [
+      66.65,
+      50.0,
+      43.35,
+      50.0,
+      28.35,
+      53.35
+    ],
+    "average": 48.62,
+    "toplam_net": 58.34,
+    "ogrenci_no": 159,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 7,
+        "net": 5.67
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "toplam": {
+        "dogru": 65,
+        "yanlis": 20,
+        "net": 58.34
+      }
+    },
+    "lgs_puani": 367.487,
+    "dereceler": {
+      "sinif": {
+        "sira": 7
+      },
+      "okul": {
+        "sira": 42
+      },
+      "il": {
+        "sira": 197
+      },
+      "genel": {
+        "sira": 197
+      }
+    }
+  },
+  {
+    "name": "DOĞU ÇAKIR",
+    "scores": [
+      66.65,
+      43.35,
+      50.0,
+      50.0,
+      46.65,
+      80.0
+    ],
+    "average": 56.11,
+    "toplam_net": 67.33,
+    "ogrenci_no": 162,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 10,
+        "yanlis": 2,
+        "net": 9.33
+      },
+      "fen": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "toplam": {
+        "dogru": 71,
+        "yanlis": 11,
+        "net": 67.33
+      }
+    },
+    "lgs_puani": 405.338,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 21
+      },
+      "il": {
+        "sira": 102
+      },
+      "genel": {
+        "sira": 102
+      }
+    }
+  },
+  {
+    "name": "DİANA YARAHMADİ",
+    "scores": [
+      10.0,
+      30.0,
+      15.0
+    ],
+    "average": 18.33,
+    "toplam_net": 10.0,
+    "ogrenci_no": 934,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 4,
+        "yanlis": 15,
+        "net": -1.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 0,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 0,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 4,
+        "yanlis": 0,
+        "net": 0.0
+      },
+      "matematik": {
+        "dogru": 0,
+        "yanlis": 0,
+        "net": 3.0
+      },
+      "fen": {
+        "dogru": 17,
+        "yanlis": 0,
+        "net": 0.0
+      }
+    },
+    "lgs_puani": 167.0,
+    "dereceler": {
+      "sinif": {
+        "sira": 947
+      },
+      "ilce": {
+        "sira": 5446
+      }
+    }
+  },
+  {
+    "name": "ECE NAZLI GÖNÜLTAŞ",
+    "scores": [
+      33.35,
+      23.35,
+      16.65,
+      13.35,
+      16.65
+    ],
+    "average": 20.67,
+    "toplam_net": 20.67,
+    "ogrenci_no": 164,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "ingilizce": {
+        "dogru": 4,
+        "yanlis": 4,
+        "net": 2.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 12,
+        "net": 0.0
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 11,
+        "net": 3.33
+      },
+      "toplam": {
+        "dogru": 36,
+        "yanlis": 46,
+        "net": 20.67
+      }
+    },
+    "lgs_puani": 255.181,
+    "dereceler": {
+      "sinif": {
+        "sira": 13
+      },
+      "okul": {
+        "sira": 118
+      },
+      "il": {
+        "sira": 654
+      },
+      "genel": {
+        "sira": 654
+      }
+    }
+  },
+  {
+    "name": "ECRİN KAYA",
+    "scores": [
+      60.0,
+      50.0,
+      50.0,
+      16.65,
+      33.35,
+      40.0
+    ],
+    "average": 41.67,
+    "toplam_net": 50.0,
+    "ogrenci_no": 166,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "matematik": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 60,
+        "yanlis": 30,
+        "net": 50.0
+      }
+    },
+    "lgs_puani": 348.489,
+    "dereceler": {
+      "sinif": {
+        "sira": 9
+      },
+      "okul": {
+        "sira": 54
+      },
+      "il": {
+        "sira": 269
+      },
+      "genel": {
+        "sira": 269
+      }
+    }
+  },
+  {
+    "name": "ECRİN KİKİ",
+    "scores": [
+      80.0,
+      43.35,
+      50.0,
+      36.65,
+      48.35,
+      60.0
+    ],
+    "average": 53.06,
+    "toplam_net": 63.67,
+    "ogrenci_no": 112,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 12,
+        "yanlis": 7,
+        "net": 9.67
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "toplam": {
+        "dogru": 70,
+        "yanlis": 19,
+        "net": 63.67
+      }
+    },
+    "lgs_puani": 398.193,
+    "dereceler": {
+      "sinif": {
+        "sira": 5
+      },
+      "okul": {
+        "sira": 26
+      },
+      "il": {
+        "sira": 119
+      },
+      "genel": {
+        "sira": 119
+      }
+    }
+  },
+  {
+    "name": "EDANUR DEDE",
+    "scores": [
+      25.0,
+      16.65,
+      3.35,
+      3.35
+    ],
+    "average": 12.09,
+    "toplam_net": 9.67,
+    "ogrenci_no": 170,
+    "sinif": "8-XX",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 9,
+        "net": 5.0
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "toplam": {
+        "dogru": 19,
+        "yanlis": 28,
+        "net": 9.67
+      }
+    },
+    "lgs_puani": 225.153,
+    "dereceler": {
+      "sinif": {
+        "sira": 3
+      },
+      "okul": {
+        "sira": 143
+      },
+      "il": {
+        "sira": 819
+      },
+      "genel": {
+        "sira": 819
+      }
+    }
+  },
+  {
+    "name": "EDİZ ÇELİK",
+    "scores": [
+      60.0,
+      50.0,
+      50.0,
+      50.0,
+      66.65,
+      80.0
+    ],
+    "average": 59.44,
+    "toplam_net": 71.33,
+    "ogrenci_no": 174,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "fen": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "toplam": {
+        "dogru": 76,
+        "yanlis": 14,
+        "net": 71.33
+      }
+    },
+    "lgs_puani": 420.697,
+    "dereceler": {
+      "sinif": {
+        "sira": 3
+      },
+      "okul": {
+        "sira": 14
+      },
+      "il": {
+        "sira": 72
+      },
+      "genel": {
+        "sira": 72
+      }
+    }
+  },
+  {
+    "name": "EGE CANTÜRK",
+    "scores": [
+      40.0,
+      18.35,
+      25.0,
+      30.0,
+      56.65
+    ],
+    "average": 34.0,
+    "toplam_net": 30.0,
+    "ogrenci_no": 183,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 6,
+        "net": 8.0
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 4,
+        "net": 3.67
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 3,
+        "net": 5.0
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 0,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 0,
+        "yanlis": 12,
+        "net": -4.0
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 5,
+        "net": 11.33
+      },
+      "toplam": {
+        "dogru": 40,
+        "yanlis": 30,
+        "net": 30.0
+      }
+    },
+    "lgs_puani": 279.651,
+    "dereceler": {
+      "sinif": {
+        "sira": 9
+      },
+      "okul": {
+        "sira": 89
+      },
+      "il": {
+        "sira": 527
+      },
+      "genel": {
+        "sira": 527
+      }
+    }
+  },
+  {
+    "name": "EGE ME T OLGAC",
+    "scores": [
+      46.65,
+      23.35,
+      36.65,
+      33.35,
+      13.35,
+      18.35
+    ],
+    "average": 28.62,
+    "toplam_net": 34.34,
+    "ogrenci_no": 180,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 12,
+        "yanlis": 8,
+        "net": 9.33
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 1,
+        "net": 6.67
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 10,
+        "net": 3.67
+      },
+      "toplam": {
+        "dogru": 47,
+        "yanlis": 38,
+        "net": 34.34
+      }
+    },
+    "lgs_puani": 293.18,
+    "dereceler": {
+      "sinif": {
+        "sira": 11
+      },
+      "okul": {
+        "sira": 82
+      },
+      "il": {
+        "sira": 462
+      },
+      "genel": {
+        "sira": 462
+      }
+    }
+  },
+  {
+    "name": "EGE YÜREK",
+    "scores": [
+      53.35,
+      50.0,
+      36.65,
+      43.35,
+      66.65,
+      66.65
+    ],
+    "average": 52.78,
+    "toplam_net": 63.33,
+    "ogrenci_no": 139,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 70,
+        "yanlis": 20,
+        "net": 63.33
+      }
+    },
+    "lgs_puani": 397.957,
+    "dereceler": {
+      "sinif": {
+        "sira": 8
+      },
+      "okul": {
+        "sira": 27
+      },
+      "il": {
+        "sira": 120
+      },
+      "genel": {
+        "sira": 120
+      }
+    }
+  },
+  {
+    "name": "EKBER EFECYILMAZ",
+    "scores": [
+      13.35,
+      3.35,
+      10.0,
+      13.35,
+      1.6500000000000001
+    ],
+    "average": 8.34,
+    "toplam_net": 5.01,
+    "ogrenci_no": 184,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "tarih": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "din": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "ingilizce": {
+        "dogru": 0,
+        "yanlis": 10,
+        "net": -3.33
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 14,
+        "net": 0.33
+      },
+      "toplam": {
+        "dogru": 26,
+        "yanlis": 63,
+        "net": 5.01
+      }
+    },
+    "lgs_puani": 220.908,
+    "dereceler": {
+      "sinif": {
+        "sira": 12
+      },
+      "okul": {
+        "sira": 151
+      },
+      "il": {
+        "sira": 840
+      },
+      "genel": {
+        "sira": 840
+      }
+    }
+  },
+  {
+    "name": "ELA MELİSA BALABAN",
+    "scores": [
+      33.35,
+      43.35,
+      25.0,
+      36.65,
+      11.65,
+      38.35
+    ],
+    "average": 31.39,
+    "toplam_net": 37.67,
+    "ogrenci_no": 965,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 9,
+        "yanlis": 7,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 3,
+        "net": 5.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 5,
+        "net": 2.33
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 7,
+        "net": 7.67
+      },
+      "toplam": {
+        "dogru": 46,
+        "yanlis": 25,
+        "net": 37.67
+      }
+    },
+    "lgs_puani": 299.938,
+    "dereceler": {
+      "sinif": {
+        "sira": 5
+      },
+      "okul": {
+        "sira": 78
+      },
+      "il": {
+        "sira": 433
+      },
+      "genel": {
+        "sira": 433
+      }
+    }
+  },
+  {
+    "name": "ELİF BADE EROL",
+    "scores": [
+      6.65,
+      16.65,
+      3.35,
+      3.35
+    ],
+    "average": 7.5,
+    "toplam_net": 3.34,
+    "ogrenci_no": 201,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 6,
+        "yanlis": 14,
+        "net": 1.33
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "fen": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "toplam": {
+        "dogru": 25,
+        "yanlis": 65,
+        "net": 3.34
+      }
+    },
+    "lgs_puani": 197.708,
+    "dereceler": {
+      "sinif": {
+        "sira": 22
+      },
+      "okul": {
+        "sira": 164
+      },
+      "il": {
+        "sira": 931
+      },
+      "genel": {
+        "sira": 931
+      }
+    }
+  },
+  {
+    "name": "ELİF BAHAR TEMEL",
+    "scores": [
+      20.0,
+      10.0,
+      30.0,
+      3.35,
+      6.65
+    ],
+    "average": 14.0,
+    "toplam_net": 13.67,
+    "ogrenci_no": 92,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 13,
+        "net": -0.33
+      },
+      "fen": {
+        "dogru": 6,
+        "yanlis": 14,
+        "net": 1.33
+      },
+      "toplam": {
+        "dogru": 32,
+        "yanlis": 55,
+        "net": 13.67
+      }
+    },
+    "lgs_puani": 232.079,
+    "dereceler": {
+      "sinif": {
+        "sira": 16
+      },
+      "okul": {
+        "sira": 140
+      },
+      "il": {
+        "sira": 782
+      },
+      "genel": {
+        "sira": 782
+      }
+    }
+  },
+  {
+    "name": "ELİF NAZ ÇELİK",
+    "scores": [
+      23.35,
+      30.0,
+      43.35,
+      36.65,
+      61.65
+    ],
+    "average": 39.0,
+    "toplam_net": 36.67,
+    "ogrenci_no": 907,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 10,
+        "net": 4.67
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 1,
+        "yanlis": 10,
+        "net": -2.33
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "toplam": {
+        "dogru": 47,
+        "yanlis": 31,
+        "net": 36.67
+      }
+    },
+    "lgs_puani": 290.313,
+    "dereceler": {
+      "sinif": {
+        "sira": 8
+      },
+      "okul": {
+        "sira": 84
+      },
+      "il": {
+        "sira": 474
+      },
+      "genel": {
+        "sira": 474
+      }
+    }
+  },
+  {
+    "name": "ELİF SENA DOĞRU",
+    "scores": [
+      28.35,
+      36.65,
+      50.0,
+      36.65
+    ],
+    "average": 37.91,
+    "toplam_net": 30.33,
+    "ogrenci_no": 20,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 9,
+        "yanlis": 10,
+        "net": 5.67
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "toplam": {
+        "dogru": 35,
+        "yanlis": 14,
+        "net": 30.33
+      }
+    },
+    "lgs_puani": 261.983,
+    "dereceler": {
+      "sinif": {
+        "sira": 16
+      },
+      "okul": {
+        "sira": 110
+      },
+      "il": {
+        "sira": 622
+      },
+      "genel": {
+        "sira": 622
+      }
+    }
+  },
+  {
+    "name": "ELİF SENA DOĞRU",
+    "scores": [
+      1.6500000000000001,
+      30.0
+    ],
+    "average": 15.82,
+    "toplam_net": 6.33,
+    "ogrenci_no": 205,
+    "sinif": "8-F",
+    "dersler": {
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 11,
+        "net": 0.33
+      },
+      "fen": {
+        "dogru": 9,
+        "yanlis": 9,
+        "net": 6.0
+      },
+      "toplam": {
+        "dogru": 13,
+        "yanlis": 20,
+        "net": 6.33
+      }
+    },
+    "lgs_puani": 221.503,
+    "dereceler": {
+      "sinif": {
+        "sira": 25
+      },
+      "okul": {
+        "sira": 149
+      },
+      "il": {
+        "sira": 838
+      },
+      "genel": {
+        "sira": 838
+      }
+    }
+  },
+  {
+    "name": "ELİF TÜZEN",
+    "scores": [
+      61.65,
+      43.35,
+      43.35,
+      50.0,
+      21.65,
+      61.65
+    ],
+    "average": 46.94,
+    "toplam_net": 56.33,
+    "ogrenci_no": 212,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 6,
+        "yanlis": 5,
+        "net": 4.33
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "toplam": {
+        "dogru": 62,
+        "yanlis": 17,
+        "net": 56.33
+      }
+    },
+    "lgs_puani": 361.381,
+    "dereceler": {
+      "sinif": {
+        "sira": 8
+      },
+      "okul": {
+        "sira": 45
+      },
+      "il": {
+        "sira": 221
+      },
+      "genel": {
+        "sira": 221
+      }
+    }
+  },
+  {
+    "name": "EMRULLAH BİLDİRİCİ",
+    "scores": [
+      41.65,
+      30.0,
+      23.35,
+      36.65,
+      55.0
+    ],
+    "average": 37.33,
+    "toplam_net": 35.66,
+    "ogrenci_no": 824,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 5,
+        "net": 8.33
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 1,
+        "net": 4.67
+      },
+      "ingilizce": {
+        "dogru": 0,
+        "yanlis": 5,
+        "net": -1.67
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 5,
+        "net": 7.33
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 3,
+        "net": 11.0
+      },
+      "toplam": {
+        "dogru": 43,
+        "yanlis": 22,
+        "net": 35.66
+      }
+    },
+    "lgs_puani": 323.918,
+    "dereceler": {
+      "sinif": {
+        "sira": 17
+      },
+      "okul": {
+        "sira": 71
+      },
+      "il": {
+        "sira": 354
+      },
+      "genel": {
+        "sira": 354
+      }
+    }
+  },
+  {
+    "name": "EMİNE VATANSEVER",
+    "scores": [
+      1.6500000000000001,
+      10.0,
+      30.0,
+      3.35,
+      41.65,
+      28.35
+    ],
+    "average": 19.17,
+    "toplam_net": 23.0,
+    "ogrenci_no": 218,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 14,
+        "net": 0.33
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "matematik": {
+        "dogru": 11,
+        "yanlis": 8,
+        "net": 8.33
+      },
+      "fen": {
+        "dogru": 9,
+        "yanlis": 10,
+        "net": 5.67
+      },
+      "toplam": {
+        "dogru": 39,
+        "yanlis": 48,
+        "net": 23.0
+      }
+    },
+    "lgs_puani": 274.023,
+    "dereceler": {
+      "sinif": {
+        "sira": 13
+      },
+      "okul": {
+        "sira": 95
+      },
+      "il": {
+        "sira": 551
+      },
+      "genel": {
+        "sira": 551
+      }
+    }
+  },
+  {
+    "name": "EMİNE YAĞLI",
+    "scores": [
+      11.65,
+      38.35,
+      8.35,
+      13.35
+    ],
+    "average": 17.93,
+    "toplam_net": 11.67,
+    "ogrenci_no": 221,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 6,
+        "yanlis": 11,
+        "net": 2.33
+      },
+      "tarih": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 9,
+        "net": -2.0
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 7,
+        "net": 1.67
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "toplam": {
+        "dogru": 28,
+        "yanlis": 49,
+        "net": 11.67
+      }
+    },
+    "lgs_puani": 234.022,
+    "dereceler": {
+      "sinif": {
+        "sira": 19
+      },
+      "okul": {
+        "sira": 138
+      },
+      "il": {
+        "sira": 775
+      },
+      "genel": {
+        "sira": 775
+      }
+    }
+  },
+  {
+    "name": "EMİR ŞANLI",
+    "scores": [
+      3.35,
+      23.35,
+      30.0,
+      30.0,
+      5.0,
+      73.35
+    ],
+    "average": 27.51,
+    "toplam_net": 33.01,
+    "ogrenci_no": 229,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 13,
+        "net": 0.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 9,
+        "net": 1.0
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 45,
+        "yanlis": 36,
+        "net": 33.01
+      }
+    },
+    "lgs_puani": 289.206,
+    "dereceler": {
+      "sinif": {
+        "sira": 8
+      },
+      "okul": {
+        "sira": 85
+      },
+      "il": {
+        "sira": 480
+      },
+      "genel": {
+        "sira": 480
+      }
+    }
+  },
+  {
+    "name": "EMİRHAN OKAY",
+    "scores": [
+      30.0,
+      10.0,
+      3.35
+    ],
+    "average": 14.45,
+    "toplam_net": 6.0,
+    "ogrenci_no": 62,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 9,
+        "yanlis": 9,
+        "net": 6.0
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 6,
+        "net": -1.0
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 11,
+        "net": -0.67
+      },
+      "fen": {
+        "dogru": 4,
+        "yanlis": 15,
+        "net": -1.0
+      },
+      "toplam": {
+        "dogru": 24,
+        "yanlis": 54,
+        "net": 6.0
+      }
+    },
+    "lgs_puani": 217.425,
+    "dereceler": {
+      "sinif": {
+        "sira": 18
+      },
+      "okul": {
+        "sira": 154
+      },
+      "il": {
+        "sira": 856
+      },
+      "genel": {
+        "sira": 856
+      }
+    }
+  },
+  {
+    "name": "ENES ÖZAYDIN",
+    "scores": [
+      20.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "average": 12.5,
+    "toplam_net": 10.0,
+    "ogrenci_no": 9969,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "ingilizce": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "toplam": {
+        "dogru": 20,
+        "yanlis": 30,
+        "net": 10.0
+      }
+    },
+    "lgs_puani": 223.205,
+    "dereceler": {
+      "sinif": {
+        "sira": 22
+      },
+      "okul": {
+        "sira": 146
+      },
+      "il": {
+        "sira": 829
+      },
+      "genel": {
+        "sira": 829
+      }
+    }
+  },
+  {
+    "name": "ERDAL SARIBAŞ",
+    "scores": [
+      16.65,
+      11.65,
+      11.65,
+      56.65,
+      36.65
+    ],
+    "average": 26.65,
+    "toplam_net": 26.32,
+    "ogrenci_no": 234,
+    "sinif": "8-XX",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 11,
+        "net": 3.33
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 5,
+        "net": 2.33
+      },
+      "din": {
+        "dogru": 4,
+        "yanlis": 5,
+        "net": 2.33
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 7,
+        "net": -0.33
+      },
+      "matematik": {
+        "dogru": 13,
+        "yanlis": 5,
+        "net": 11.33
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 8,
+        "net": 7.33
+      },
+      "toplam": {
+        "dogru": 40,
+        "yanlis": 41,
+        "net": 26.32
+      }
+    },
+    "lgs_puani": 299.105,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 79
+      },
+      "il": {
+        "sira": 438
+      },
+      "genel": {
+        "sira": 438
+      }
+    }
+  },
+  {
+    "name": "EREN YAVUZ",
+    "scores": [
+      80.0,
+      50.0,
+      43.35,
+      50.0,
+      71.65,
+      93.35000000000001
+    ],
+    "average": 64.73,
+    "toplam_net": 77.67,
+    "ogrenci_no": 649,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 15,
+        "yanlis": 2,
+        "net": 14.33
+      },
+      "fen": {
+        "dogru": 19,
+        "yanlis": 1,
+        "net": 18.67
+      },
+      "toplam": {
+        "dogru": 80,
+        "yanlis": 7,
+        "net": 77.67
+      }
+    },
+    "lgs_puani": 449.708,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 2
+      },
+      "il": {
+        "sira": 31
+      },
+      "genel": {
+        "sira": 31
+      }
+    }
+  },
+  {
+    "name": "ERKARA MELEK SU",
+    "scores": [
+      8.35,
+      23.35,
+      33.35,
+      30.0,
+      28.35
+    ],
+    "average": 24.68,
+    "toplam_net": 24.68,
+    "ogrenci_no": 355,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 6,
+        "yanlis": 13,
+        "net": 1.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 1,
+        "net": 6.67
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 9,
+        "net": 0.0
+      },
+      "fen": {
+        "dogru": 9,
+        "yanlis": 10,
+        "net": 5.67
+      },
+      "toplam": {
+        "dogru": 38,
+        "yanlis": 40,
+        "net": 24.68
+      }
+    },
+    "lgs_puani": 254.883,
+    "dereceler": {
+      "sinif": {
+        "sira": 21
+      },
+      "okul": {
+        "sira": 119
+      },
+      "il": {
+        "sira": 655
+      },
+      "genel": {
+        "sira": 655
+      }
+    }
+  },
+  {
+    "name": "ERKEN ELİF NURSİMA",
+    "scores": [
+      60.0,
+      43.35,
+      43.35,
+      45.0,
+      68.35,
+      73.35
+    ],
+    "average": 55.57,
+    "toplam_net": 66.68,
+    "ogrenci_no": 84,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "matematik": {
+        "dogru": 15,
+        "yanlis": 4,
+        "net": 13.67
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 72,
+        "yanlis": 16,
+        "net": 66.68
+      }
+    },
+    "lgs_puani": 410.794,
+    "dereceler": {
+      "sinif": {
+        "sira": 4
+      },
+      "okul": {
+        "sira": 17
+      },
+      "il": {
+        "sira": 89
+      },
+      "genel": {
+        "sira": 89
+      }
+    }
+  },
+  {
+    "name": "ERTAN TAN",
+    "scores": [
+      55.0,
+      36.65,
+      43.35,
+      50.0,
+      40.0,
+      53.35
+    ],
+    "average": 46.39,
+    "toplam_net": 55.67,
+    "ogrenci_no": 242,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 6,
+        "net": 11.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 10,
+        "yanlis": 6,
+        "net": 8.0
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 4,
+        "net": 10.67
+      },
+      "toplam": {
+        "dogru": 62,
+        "yanlis": 19,
+        "net": 55.67
+      }
+    },
+    "lgs_puani": 364.1,
+    "dereceler": {
+      "sinif": {
+        "sira": 7
+      },
+      "okul": {
+        "sira": 44
+      },
+      "il": {
+        "sira": 209
+      },
+      "genel": {
+        "sira": 209
+      }
+    }
+  },
+  {
+    "name": "ESLEM GÜLÇİÇEK",
+    "scores": [
+      81.64999999999999,
+      36.65,
+      50.0,
+      38.35,
+      31.65,
+      21.65
+    ],
+    "average": 43.32,
+    "toplam_net": 51.99,
+    "ogrenci_no": 265,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 2,
+        "net": 16.33
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 5,
+        "net": 6.33
+      },
+      "fen": {
+        "dogru": 8,
+        "yanlis": 11,
+        "net": 4.33
+      },
+      "toplam": {
+        "dogru": 59,
+        "yanlis": 21,
+        "net": 51.99
+      }
+    },
+    "lgs_puani": 352.502,
+    "dereceler": {
+      "sinif": {
+        "sira": 5
+      },
+      "okul": {
+        "sira": 48
+      },
+      "il": {
+        "sira": 254
+      },
+      "genel": {
+        "sira": 254
+      }
+    }
+  },
+  {
+    "name": "ESİLA GÜNEY",
+    "scores": [
+      1.6500000000000001,
+      10.0,
+      30.0,
+      16.65,
+      1.6500000000000001
+    ],
+    "average": 11.99,
+    "toplam_net": 11.99,
+    "ogrenci_no": 259,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 14,
+        "net": 0.33
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 9,
+        "net": 0.0
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 14,
+        "net": 0.33
+      },
+      "toplam": {
+        "dogru": 29,
+        "yanlis": 51,
+        "net": 11.99
+      }
+    },
+    "lgs_puani": 218.754,
+    "dereceler": {
+      "sinif": {
+        "sira": 20
+      },
+      "okul": {
+        "sira": 153
+      },
+      "il": {
+        "sira": 851
+      },
+      "genel": {
+        "sira": 851
+      }
+    }
+  },
+  {
+    "name": "EYMEN AYDOĞAN",
+    "scores": [
+      43.35,
+      31.65,
+      38.35,
+      40.0,
+      10.0,
+      61.65
+    ],
+    "average": 37.5,
+    "toplam_net": 45.0,
+    "ogrenci_no": 277,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 7,
+        "net": 8.67
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 2,
+        "net": 6.33
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 0,
+        "net": 8.0
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "toplam": {
+        "dogru": 52,
+        "yanlis": 21,
+        "net": 45.0
+      }
+    },
+    "lgs_puani": 326.596,
+    "dereceler": {
+      "sinif": {
+        "sira": 4
+      },
+      "okul": {
+        "sira": 69
+      },
+      "il": {
+        "sira": 341
+      },
+      "genel": {
+        "sira": 341
+      }
+    }
+  },
+  {
+    "name": "EYMEN PARLAK",
+    "scores": [
+      20.0,
+      23.35,
+      36.65,
+      30.0,
+      26.65
+    ],
+    "average": 27.33,
+    "toplam_net": 23.33,
+    "ogrenci_no": 993,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 18,
+        "net": -4.0
+      },
+      "fen": {
+        "dogru": 9,
+        "yanlis": 11,
+        "net": 5.33
+      },
+      "toplam": {
+        "dogru": 40,
+        "yanlis": 50,
+        "net": 23.33
+      }
+    },
+    "lgs_puani": 245.853,
+    "dereceler": {
+      "sinif": {
+        "sira": 16
+      },
+      "okul": {
+        "sira": 127
+      },
+      "il": {
+        "sira": 708
+      },
+      "genel": {
+        "sira": 708
+      }
+    }
+  },
+  {
+    "name": "EYMEN TAHA AYDEMİ",
+    "scores": [
+      73.35,
+      30.0,
+      50.0,
+      50.0,
+      25.0,
+      73.35
+    ],
+    "average": 50.28,
+    "toplam_net": 60.34,
+    "ogrenci_no": 278,
+    "sinif": "R8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 9,
+        "net": 5.0
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 67,
+        "yanlis": 20,
+        "net": 60.34
+      }
+    },
+    "lgs_puani": 380.943,
+    "dereceler": {
+      "sinif": {
+        "sira": 5
+      },
+      "okul": {
+        "sira": 37
+      },
+      "il": {
+        "sira": 168
+      },
+      "genel": {
+        "sira": 168
+      }
+    }
+  },
+  {
+    "name": "EZGİ DERE",
+    "scores": [
+      93.35000000000001,
+      50.0,
+      43.35,
+      50.0,
+      65.0,
+      80.0
+    ],
+    "average": 63.62,
+    "toplam_net": 76.34,
+    "ogrenci_no": 285,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 19,
+        "yanlis": 1,
+        "net": 18.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 14,
+        "yanlis": 3,
+        "net": 13.0
+      },
+      "fen": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "toplam": {
+        "dogru": 79,
+        "yanlis": 8,
+        "net": 76.34
+      }
+    },
+    "lgs_puani": 444.112,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 4
+      },
+      "il": {
+        "sira": 37
+      },
+      "genel": {
+        "sira": 37
+      }
+    }
+  },
+  {
+    "name": "EZRA DOĞAN",
+    "scores": [
+      86.64999999999999,
+      50.0,
+      50.0,
+      50.0,
+      5.0,
+      93.35000000000001
+    ],
+    "average": 55.83,
+    "toplam_net": 67.0,
+    "ogrenci_no": 286,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 9,
+        "net": 1.0
+      },
+      "fen": {
+        "dogru": 19,
+        "yanlis": 1,
+        "net": 18.67
+      },
+      "toplam": {
+        "dogru": 71,
+        "yanlis": 12,
+        "net": 67.0
+      }
+    },
+    "lgs_puani": 395.843,
+    "dereceler": {
+      "sinif": {
+        "sira": 3
+      },
+      "okul": {
+        "sira": 29
+      },
+      "il": {
+        "sira": 126
+      },
+      "genel": {
+        "sira": 126
+      }
+    }
+  },
+  {
+    "name": "FATMA NEHİR YAZGI",
+    "scores": [
+      80.0,
+      43.35,
+      50.0,
+      50.0,
+      75.0,
+      66.65
+    ],
+    "average": 60.83,
+    "toplam_net": 73.0,
+    "ogrenci_no": 127,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 16,
+        "yanlis": 3,
+        "net": 15.0
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 77,
+        "yanlis": 12,
+        "net": 73.0
+      }
+    },
+    "lgs_puani": 432.169,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 10
+      },
+      "il": {
+        "sira": 59
+      },
+      "genel": {
+        "sira": 59
+      }
+    }
+  },
+  {
+    "name": "FATMANUR İSLAMOĞL U",
+    "scores": [
+      33.35,
+      23.35,
+      50.0,
+      30.0,
+      40.0,
+      53.35
+    ],
+    "average": 38.34,
+    "toplam_net": 46.01,
+    "ogrenci_no": 288,
+    "sinif": "U8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "toplam": {
+        "dogru": 57,
+        "yanlis": 33,
+        "net": 46.01
+      }
+    },
+    "lgs_puani": 337.991,
+    "dereceler": {
+      "sinif": {
+        "sira": 10
+      },
+      "okul": {
+        "sira": 62
+      },
+      "il": {
+        "sira": 304
+      },
+      "genel": {
+        "sira": 304
+      }
+    }
+  },
+  {
+    "name": "HABİL ŞAHİN",
+    "scores": [
+      73.35,
+      43.35,
+      50.0,
+      43.35,
+      25.0,
+      70.0
+    ],
+    "average": 50.84,
+    "toplam_net": 61.01,
+    "ogrenci_no": 192,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 9,
+        "net": 5.0
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 3,
+        "net": 14.0
+      },
+      "toplam": {
+        "dogru": 67,
+        "yanlis": 18,
+        "net": 61.01
+      }
+    },
+    "lgs_puani": 380.92,
+    "dereceler": {
+      "sinif": {
+        "sira": 6
+      },
+      "okul": {
+        "sira": 38
+      },
+      "il": {
+        "sira": 169
+      },
+      "genel": {
+        "sira": 169
+      }
+    }
+  },
+  {
+    "name": "HAKTAN KUZEY BEKA",
+    "scores": [
+      36.65,
+      50.0,
+      43.35,
+      40.0
+    ],
+    "average": 42.5,
+    "toplam_net": 32.67,
+    "ogrenci_no": 144,
+    "sinif": "R8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 47,
+        "yanlis": 43,
+        "net": 32.67
+      }
+    },
+    "lgs_puani": 265.691,
+    "dereceler": {
+      "sinif": {
+        "sira": 15
+      },
+      "okul": {
+        "sira": 107
+      },
+      "il": {
+        "sira": 604
+      },
+      "genel": {
+        "sira": 604
+      }
+    }
+  },
+  {
+    "name": "HAMZA GÖCENOĞLU",
+    "scores": [
+      8.35,
+      5.0,
+      43.35,
+      6.65,
+      16.65
+    ],
+    "average": 16.0,
+    "toplam_net": 16.0,
+    "ogrenci_no": 289,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 10,
+        "net": 1.67
+      },
+      "tarih": {
+        "dogru": 2,
+        "yanlis": 3,
+        "net": 1.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 3,
+        "net": 0.0
+      },
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 2,
+        "net": 1.33
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "toplam": {
+        "dogru": 24,
+        "yanlis": 24,
+        "net": 16.0
+      }
+    },
+    "lgs_puani": 240.094,
+    "dereceler": {
+      "sinif": {
+        "sira": 15
+      },
+      "okul": {
+        "sira": 131
+      },
+      "il": {
+        "sira": 740
+      },
+      "genel": {
+        "sira": 740
+      }
+    }
+  },
+  {
+    "name": "HATİCE B CENGİZ",
+    "scores": [
+      8.35,
+      10.0,
+      50.0,
+      13.35
+    ],
+    "average": 20.43,
+    "toplam_net": 11.01,
+    "ogrenci_no": 8,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 10,
+        "net": 1.67
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 1,
+        "yanlis": 19,
+        "net": -5.33
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "toplam": {
+        "dogru": 27,
+        "yanlis": 48,
+        "net": 11.01
+      }
+    },
+    "lgs_puani": 207.897,
+    "dereceler": {
+      "sinif": {
+        "sira": 26
+      },
+      "okul": {
+        "sira": 157
+      },
+      "il": {
+        "sira": 885
+      },
+      "genel": {
+        "sira": 885
+      }
+    }
+  },
+  {
+    "name": "HAYDAR RAFİD",
+    "scores": [
+      3.35,
+      10.0,
+      16.65,
+      13.35
+    ],
+    "average": 10.84,
+    "toplam_net": 7.34,
+    "ogrenci_no": 315,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "din": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "ingilizce": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "toplam": {
+        "dogru": 28,
+        "yanlis": 62,
+        "net": 7.34
+      }
+    },
+    "lgs_puani": 210.707,
+    "dereceler": {
+      "sinif": {
+        "sira": 21
+      },
+      "okul": {
+        "sira": 155
+      },
+      "il": {
+        "sira": 874
+      },
+      "genel": {
+        "sira": 874
+      }
+    }
+  },
+  {
+    "name": "HAZAL YILDIRI M",
+    "scores": [
+      56.65,
+      45.0,
+      50.0,
+      50.0,
+      43.35,
+      75.0
+    ],
+    "average": 53.33,
+    "toplam_net": 64.0,
+    "ogrenci_no": 997,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 5,
+        "net": 11.33
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 11,
+        "yanlis": 7,
+        "net": 8.67
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 3,
+        "net": 15.0
+      },
+      "toplam": {
+        "dogru": 69,
+        "yanlis": 15,
+        "net": 64.0
+      }
+    },
+    "lgs_puani": 390.721,
+    "dereceler": {
+      "sinif": {
+        "sira": 4
+      },
+      "okul": {
+        "sira": 34
+      },
+      "il": {
+        "sira": 139
+      },
+      "genel": {
+        "sira": 139
+      }
+    }
+  },
+  {
+    "name": "HAZAR BARIŞ GEDİK",
+    "scores": [
+      45.0,
+      33.35,
+      10.0,
+      1.6500000000000001
+    ],
+    "average": 22.5,
+    "toplam_net": 18.0,
+    "ogrenci_no": 0,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 6,
+        "net": 9.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 1,
+        "net": 6.67
+      },
+      "din": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 5,
+        "net": 0.33
+      },
+      "toplam": {
+        "dogru": 24,
+        "yanlis": 18,
+        "net": 18.0
+      }
+    },
+    "lgs_puani": 249.261,
+    "dereceler": {
+      "sinif": {
+        "sira": 14
+      },
+      "okul": {
+        "sira": 126
+      },
+      "il": {
+        "sira": 685
+      },
+      "genel": {
+        "sira": 685
+      }
+    }
+  },
+  {
+    "name": "HAZAR BARIŞ GEDİKK K",
+    "scores": [
+      5.0,
+      76.65
+    ],
+    "average": 40.83,
+    "toplam_net": 16.33,
+    "ogrenci_no": 316,
+    "sinif": "K8-D",
+    "dersler": {
+      "matematik": {
+        "dogru": 1,
+        "yanlis": 0,
+        "net": 1.0
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 2,
+        "net": 15.33
+      },
+      "toplam": {
+        "dogru": 17,
+        "yanlis": 2,
+        "net": 16.33
+      }
+    },
+    "lgs_puani": 260.898,
+    "dereceler": {
+      "sinif": {
+        "sira": 12
+      },
+      "okul": {
+        "sira": 111
+      },
+      "il": {
+        "sira": 629
+      },
+      "genel": {
+        "sira": 629
+      }
+    }
+  },
+  {
+    "name": "HİCABİ DERİCİ",
+    "scores": [
+      80.0,
+      30.0,
+      36.65,
+      50.0,
+      8.35,
+      60.0
+    ],
+    "average": 44.17,
+    "toplam_net": 53.0,
+    "ogrenci_no": 333,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 10,
+        "net": 1.67
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "toplam": {
+        "dogru": 61,
+        "yanlis": 24,
+        "net": 53.0
+      }
+    },
+    "lgs_puani": 355.756,
+    "dereceler": {
+      "sinif": {
+        "sira": 9
+      },
+      "okul": {
+        "sira": 46
+      },
+      "il": {
+        "sira": 239
+      },
+      "genel": {
+        "sira": 239
+      }
+    }
+  },
+  {
+    "name": "KARABEY ESMA",
+    "scores": [
+      60.0,
+      43.35,
+      50.0,
+      50.0,
+      48.35,
+      73.35
+    ],
+    "average": 54.18,
+    "toplam_net": 65.01,
+    "ogrenci_no": 266,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 12,
+        "yanlis": 7,
+        "net": 9.67
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 71,
+        "yanlis": 18,
+        "net": 65.01
+      }
+    },
+    "lgs_puani": 396.219,
+    "dereceler": {
+      "sinif": {
+        "sira": 9
+      },
+      "okul": {
+        "sira": 28
+      },
+      "il": {
+        "sira": 124
+      },
+      "genel": {
+        "sira": 124
+      }
+    }
+  },
+  {
+    "name": "KAYA PAŞA",
+    "scores": [
+      26.65,
+      36.65,
+      36.65,
+      50.0,
+      1.6500000000000001,
+      15.0
+    ],
+    "average": 27.77,
+    "toplam_net": 33.32,
+    "ogrenci_no": 31,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 9,
+        "yanlis": 11,
+        "net": 5.33
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 8,
+        "net": 0.33
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 12,
+        "net": 3.0
+      },
+      "toplam": {
+        "dogru": 45,
+        "yanlis": 35,
+        "net": 33.32
+      }
+    },
+    "lgs_puani": 273.061,
+    "dereceler": {
+      "sinif": {
+        "sira": 7
+      },
+      "okul": {
+        "sira": 97
+      },
+      "il": {
+        "sira": 559
+      },
+      "genel": {
+        "sira": 559
+      }
+    }
+  },
+  {
+    "name": "KAYRA ALP UZUN",
+    "scores": [
+      26.65,
+      38.35,
+      45.0,
+      31.65,
+      50.0
+    ],
+    "average": 38.33,
+    "toplam_net": 37.66,
+    "ogrenci_no": 338,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 8,
+        "net": 5.33
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 5,
+        "net": -0.67
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 5,
+        "net": 6.33
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 6,
+        "net": 10.0
+      },
+      "toplam": {
+        "dogru": 46,
+        "yanlis": 25,
+        "net": 37.66
+      }
+    },
+    "lgs_puani": 315.365,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 73
+      },
+      "il": {
+        "sira": 372
+      },
+      "genel": {
+        "sira": 372
+      }
+    }
+  },
+  {
+    "name": "KAYRA KILIÇ",
+    "scores": [
+      20.0,
+      8.35,
+      13.35,
+      6.65,
+      33.35
+    ],
+    "average": 16.34,
+    "toplam_net": 16.34,
+    "ogrenci_no": 141,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 6,
+        "yanlis": 6,
+        "net": 4.0
+      },
+      "tarih": {
+        "dogru": 3,
+        "yanlis": 4,
+        "net": 1.67
+      },
+      "din": {
+        "dogru": 4,
+        "yanlis": 4,
+        "net": 2.67
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 2,
+        "net": 1.33
+      },
+      "matematik": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "toplam": {
+        "dogru": 30,
+        "yanlis": 41,
+        "net": 16.34
+      }
+    },
+    "lgs_puani": 253.703,
+    "dereceler": {
+      "sinif": {
+        "sira": 11
+      },
+      "okul": {
+        "sira": 121
+      },
+      "il": {
+        "sira": 662
+      },
+      "genel": {
+        "sira": 662
+      }
+    }
+  },
+  {
+    "name": "KILIÇ KAYRA",
+    "scores": [
+      53.35,
+      50.0,
+      50.0,
+      43.35,
+      20.0,
+      73.35
+    ],
+    "average": 48.34,
+    "toplam_net": 58.01,
+    "ogrenci_no": 378,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 66,
+        "yanlis": 24,
+        "net": 58.01
+      }
+    },
+    "lgs_puani": 364.756,
+    "dereceler": {
+      "sinif": {
+        "sira": 13
+      },
+      "okul": {
+        "sira": 43
+      },
+      "il": {
+        "sira": 204
+      },
+      "genel": {
+        "sira": 204
+      }
+    }
+  },
+  {
+    "name": "KIRDA MUSTAFA EYM EN",
+    "scores": [
+      80.0,
+      50.0,
+      43.35,
+      50.0,
+      61.65,
+      100.0
+    ],
+    "average": 64.17,
+    "toplam_net": 77.0,
+    "ogrenci_no": 391,
+    "sinif": "EN8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "fen": {
+        "dogru": 20,
+        "yanlis": 0,
+        "net": 20.0
+      },
+      "toplam": {
+        "dogru": 80,
+        "yanlis": 9,
+        "net": 77.0
+      }
+    },
+    "lgs_puani": 445.63,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 3
+      },
+      "il": {
+        "sira": 36
+      },
+      "genel": {
+        "sira": 36
+      }
+    }
+  },
+  {
+    "name": "KOCAALP ARDA",
+    "scores": [
+      73.35,
+      43.35,
+      45.0,
+      43.35,
+      36.65,
+      71.65
+    ],
+    "average": 52.23,
+    "toplam_net": 62.67,
+    "ogrenci_no": 36,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 5,
+        "net": 7.33
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 2,
+        "net": 14.33
+      },
+      "toplam": {
+        "dogru": 67,
+        "yanlis": 13,
+        "net": 62.67
+      }
+    },
+    "lgs_puani": 391.207,
+    "dereceler": {
+      "sinif": {
+        "sira": 4
+      },
+      "okul": {
+        "sira": 33
+      },
+      "il": {
+        "sira": 138
+      },
+      "genel": {
+        "sira": 138
+      }
+    }
+  },
+  {
+    "name": "KUZEY DUMANTEPE",
+    "scores": [
+      28.35,
+      23.35,
+      43.35,
+      13.35,
+      31.65
+    ],
+    "average": 28.01,
+    "toplam_net": 27.68,
+    "ogrenci_no": 339,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 9,
+        "yanlis": 10,
+        "net": 5.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 4,
+        "yanlis": 4,
+        "net": 2.67
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 10,
+        "net": -0.33
+      },
+      "fen": {
+        "dogru": 9,
+        "yanlis": 8,
+        "net": 6.33
+      },
+      "toplam": {
+        "dogru": 40,
+        "yanlis": 37,
+        "net": 27.68
+      }
+    },
+    "lgs_puani": 270.896,
+    "dereceler": {
+      "sinif": {
+        "sira": 18
+      },
+      "okul": {
+        "sira": 101
+      },
+      "il": {
+        "sira": 574
+      },
+      "genel": {
+        "sira": 574
+      }
+    }
+  },
+  {
+    "name": "KÜBRAÖ ZHAN",
+    "scores": [
+      3.35,
+      10.0,
+      3.35,
+      30.0
+    ],
+    "average": 11.68,
+    "toplam_net": 7.67,
+    "ogrenci_no": 787,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 13,
+        "net": 0.67
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 14,
+        "net": -1.67
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "toplam": {
+        "dogru": 27,
+        "yanlis": 58,
+        "net": 7.67
+      }
+    },
+    "lgs_puani": 205.491,
+    "dereceler": {
+      "sinif": {
+        "sira": 24
+      },
+      "okul": {
+        "sira": 158
+      },
+      "il": {
+        "sira": 896
+      },
+      "genel": {
+        "sira": 896
+      }
+    }
+  },
+  {
+    "name": "MEHMET EYMEN ERCA N",
+    "scores": [
+      75.0,
+      38.35,
+      43.35,
+      45.0,
+      61.65,
+      43.35
+    ],
+    "average": 51.12,
+    "toplam_net": 61.34,
+    "ogrenci_no": 346,
+    "sinif": "N8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 16,
+        "yanlis": 3,
+        "net": 15.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "matematik": {
+        "dogru": 13,
+        "yanlis": 2,
+        "net": 12.33
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 7,
+        "net": 8.67
+      },
+      "toplam": {
+        "dogru": 66,
+        "yanlis": 14,
+        "net": 61.34
+      }
+    },
+    "lgs_puani": 391.87,
+    "dereceler": {
+      "sinif": {
+        "sira": 6
+      },
+      "okul": {
+        "sira": 32
+      },
+      "il": {
+        "sira": 136
+      },
+      "genel": {
+        "sira": 136
+      }
+    }
+  },
+  {
+    "name": "MEHMETCİK EYÜP",
+    "scores": [
+      25.0,
+      30.0,
+      36.65,
+      23.35,
+      3.35,
+      10.0
+    ],
+    "average": 21.39,
+    "toplam_net": 25.67,
+    "ogrenci_no": 280,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 9,
+        "net": 5.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 10,
+        "net": 0.67
+      },
+      "fen": {
+        "dogru": 6,
+        "yanlis": 12,
+        "net": 2.0
+      },
+      "toplam": {
+        "dogru": 39,
+        "yanlis": 40,
+        "net": 25.67
+      }
+    },
+    "lgs_puani": 258.877,
+    "dereceler": {
+      "sinif": {
+        "sira": 17
+      },
+      "okul": {
+        "sira": 115
+      },
+      "il": {
+        "sira": 643
+      },
+      "genel": {
+        "sira": 643
+      }
+    }
+  },
+  {
+    "name": "MELTEM ÇEVİK",
+    "scores": [
+      40.0,
+      30.0,
+      38.35,
+      11.65,
+      8.35
+    ],
+    "average": 25.67,
+    "toplam_net": 24.67,
+    "ogrenci_no": 359,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 4,
+        "yanlis": 5,
+        "net": 2.33
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 12,
+        "net": -1.0
+      },
+      "fen": {
+        "dogru": 6,
+        "yanlis": 13,
+        "net": 1.67
+      },
+      "toplam": {
+        "dogru": 39,
+        "yanlis": 43,
+        "net": 24.67
+      }
+    },
+    "lgs_puani": 259.216,
+    "dereceler": {
+      "sinif": {
+        "sira": 14
+      },
+      "okul": {
+        "sira": 114
+      },
+      "il": {
+        "sira": 638
+      },
+      "genel": {
+        "sira": 638
+      }
+    }
+  },
+  {
+    "name": "MELİSA NUR ALİCİK",
+    "scores": [
+      6.65,
+      10.0,
+      3.35,
+      20.0,
+      13.35
+    ],
+    "average": 10.67,
+    "toplam_net": 10.0,
+    "ogrenci_no": 358,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 6,
+        "yanlis": 14,
+        "net": 1.33
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "toplam": {
+        "dogru": 30,
+        "yanlis": 60,
+        "net": 10.0
+      }
+    },
+    "lgs_puani": 234.265,
+    "dereceler": {
+      "sinif": {
+        "sira": 18
+      },
+      "okul": {
+        "sira": 136
+      },
+      "il": {
+        "sira": 773
+      },
+      "genel": {
+        "sira": 773
+      }
+    }
+  },
+  {
+    "name": "METİN EGE",
+    "scores": [
+      25.0,
+      15.0,
+      20.0
+    ],
+    "average": 20.0,
+    "toplam_net": 12.0,
+    "ogrenci_no": 771,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 0,
+        "net": 5.0
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 0,
+        "net": 3.0
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 0,
+        "net": 0.0
+      },
+      "matematik": {
+        "dogru": 0,
+        "yanlis": 0,
+        "net": 4.0
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 0,
+        "net": 0.0
+      }
+    },
+    "lgs_puani": 166.0,
+    "dereceler": {
+      "sinif": {
+        "sira": 942
+      },
+      "ilce": {
+        "sira": 5391
+      }
+    }
+  },
+  {
+    "name": "MUHAMMED EMİN AT AMBR",
+    "scores": [
+      68.35,
+      50.0,
+      50.0,
+      50.0,
+      66.65,
+      66.65
+    ],
+    "average": 58.61,
+    "toplam_net": 70.33,
+    "ogrenci_no": 89,
+    "sinif": "AM8-EBR",
+    "dersler": {
+      "turkce": {
+        "dogru": 15,
+        "yanlis": 4,
+        "net": 13.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 14,
+        "yanlis": 2,
+        "net": 13.33
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 74,
+        "yanlis": 11,
+        "net": 70.33
+      }
+    },
+    "lgs_puani": 417.169,
+    "dereceler": {
+      "sinif": {
+        "sira": 3
+      },
+      "okul": {
+        "sira": 15
+      },
+      "il": {
+        "sira": 79
+      },
+      "genel": {
+        "sira": 79
+      }
+    }
+  },
+  {
+    "name": "MUHAMMET EMİN YIL DIZ-D",
+    "scores": [
+      56.65,
+      30.0,
+      38.35,
+      13.35,
+      66.65
+    ],
+    "average": 41.0,
+    "toplam_net": 41.0,
+    "ogrenci_no": 374,
+    "sinif": "D8IZ-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 5,
+        "net": 11.33
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 3,
+        "net": 0.0
+      },
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 7,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 49,
+        "yanlis": 24,
+        "net": 41.0
+      }
+    },
+    "lgs_puani": 331.705,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 65
+      },
+      "il": {
+        "sira": 320
+      },
+      "genel": {
+        "sira": 320
+      }
+    }
+  },
+  {
+    "name": "MİHRİMAH KAYMAZ",
+    "scores": [
+      13.35,
+      10.0,
+      23.35,
+      30.0,
+      8.35,
+      20.0
+    ],
+    "average": 17.51,
+    "toplam_net": 21.01,
+    "ogrenci_no": 360,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 7,
+        "net": 1.67
+      },
+      "fen": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "toplam": {
+        "dogru": 36,
+        "yanlis": 45,
+        "net": 21.01
+      }
+    },
+    "lgs_puani": 251.98,
+    "dereceler": {
+      "sinif": {
+        "sira": 15
+      },
+      "okul": {
+        "sira": 123
+      },
+      "il": {
+        "sira": 670
+      },
+      "genel": {
+        "sira": 670
+      }
+    }
+  },
+  {
+    "name": "MİRAY TUANA YAVUZ",
+    "scores": [
+      53.35,
+      45.0,
+      50.0,
+      36.65,
+      33.35,
+      20.0
+    ],
+    "average": 39.73,
+    "toplam_net": 47.67,
+    "ogrenci_no": 959,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 4,
+        "net": 6.67
+      },
+      "fen": {
+        "dogru": 6,
+        "yanlis": 6,
+        "net": 4.0
+      },
+      "toplam": {
+        "dogru": 54,
+        "yanlis": 19,
+        "net": 47.67
+      }
+    },
+    "lgs_puani": 331.846,
+    "dereceler": {
+      "sinif": {
+        "sira": 14
+      },
+      "okul": {
+        "sira": 64
+      },
+      "il": {
+        "sira": 318
+      },
+      "genel": {
+        "sira": 318
+      }
+    }
+  },
+  {
+    "name": "MİRAÇ KÜÇÜKLER",
+    "scores": [
+      80.0,
+      30.0,
+      33.35,
+      50.0,
+      13.35,
+      50.0
+    ],
+    "average": 42.78,
+    "toplam_net": 51.34,
+    "ogrenci_no": 974,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 1,
+        "net": 6.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 6,
+        "net": 10.0
+      },
+      "toplam": {
+        "dogru": 60,
+        "yanlis": 26,
+        "net": 51.34
+      }
+    },
+    "lgs_puani": 351.396,
+    "dereceler": {
+      "sinif": {
+        "sira": 6
+      },
+      "okul": {
+        "sira": 50
+      },
+      "il": {
+        "sira": 260
+      },
+      "genel": {
+        "sira": 260
+      }
+    }
+  },
+  {
+    "name": "MİRZA ALİ DAŞ",
+    "scores": [
+      53.35,
+      43.35,
+      36.65,
+      43.35,
+      26.65,
+      33.35
+    ],
+    "average": 39.45,
+    "toplam_net": 47.34,
+    "ogrenci_no": 23,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 11,
+        "net": 5.33
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "toplam": {
+        "dogru": 58,
+        "yanlis": 32,
+        "net": 47.34
+      }
+    },
+    "lgs_puani": 332.659,
+    "dereceler": {
+      "sinif": {
+        "sira": 13
+      },
+      "okul": {
+        "sira": 63
+      },
+      "il": {
+        "sira": 314
+      },
+      "genel": {
+        "sira": 314
+      }
+    }
+  },
+  {
+    "name": "NAZ KAYDAŞ",
+    "scores": [
+      53.35,
+      18.35,
+      38.35,
+      38.35,
+      1.6500000000000001,
+      73.35
+    ],
+    "average": 37.23,
+    "toplam_net": 44.68,
+    "ogrenci_no": 165,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 4,
+        "net": 3.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 8,
+        "net": 0.33
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 53,
+        "yanlis": 25,
+        "net": 44.68
+      }
+    },
+    "lgs_puani": 331.045,
+    "dereceler": {
+      "sinif": {
+        "sira": 3
+      },
+      "okul": {
+        "sira": 67
+      },
+      "il": {
+        "sira": 328
+      },
+      "genel": {
+        "sira": 328
+      }
+    }
+  },
+  {
+    "name": "NAZLI KURT",
+    "scores": [
+      46.65,
+      30.0,
+      30.0,
+      21.65,
+      33.35,
+      18.35
+    ],
+    "average": 30.0,
+    "toplam_net": 36.0,
+    "ogrenci_no": 646,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 12,
+        "yanlis": 8,
+        "net": 9.33
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 0,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 5,
+        "yanlis": 2,
+        "net": 4.33
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 4,
+        "net": 6.67
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 10,
+        "net": 3.67
+      },
+      "toplam": {
+        "dogru": 45,
+        "yanlis": 27,
+        "net": 36.0
+      }
+    },
+    "lgs_puani": 308.02,
+    "dereceler": {
+      "sinif": {
+        "sira": 3
+      },
+      "okul": {
+        "sira": 75
+      },
+      "il": {
+        "sira": 393
+      },
+      "genel": {
+        "sira": 393
+      }
+    }
+  },
+  {
+    "name": "NUR BERRAK ESEN",
+    "scores": [
+      93.35000000000001,
+      50.0,
+      50.0,
+      50.0,
+      55.0,
+      86.64999999999999
+    ],
+    "average": 64.17,
+    "toplam_net": 77.0,
+    "ogrenci_no": 405,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 19,
+        "yanlis": 1,
+        "net": 18.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 12,
+        "yanlis": 3,
+        "net": 11.0
+      },
+      "fen": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "toplam": {
+        "dogru": 79,
+        "yanlis": 6,
+        "net": 77.0
+      }
+    },
+    "lgs_puani": 442.458,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 5
+      },
+      "il": {
+        "sira": 39
+      },
+      "genel": {
+        "sira": 39
+      }
+    }
+  },
+  {
+    "name": "NİSA DURU ÖZGÜR",
+    "scores": [
+      26.65,
+      23.35,
+      43.35,
+      23.35,
+      1.6500000000000001,
+      55.0
+    ],
+    "average": 28.89,
+    "toplam_net": 34.67,
+    "ogrenci_no": 396,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 8,
+        "net": 5.33
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 11,
+        "net": 0.33
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 6,
+        "net": 11.0
+      },
+      "toplam": {
+        "dogru": 46,
+        "yanlis": 34,
+        "net": 34.67
+      }
+    },
+    "lgs_puani": 293.83,
+    "dereceler": {
+      "sinif": {
+        "sira": 7
+      },
+      "okul": {
+        "sira": 81
+      },
+      "il": {
+        "sira": 458
+      },
+      "genel": {
+        "sira": 458
+      }
+    }
+  },
+  {
+    "name": "NİSA IRMAK",
+    "scores": [
+      40.0,
+      16.65,
+      43.35,
+      36.65,
+      1.6500000000000001,
+      60.0
+    ],
+    "average": 33.05,
+    "toplam_net": 39.66,
+    "ogrenci_no": 399,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 5,
+        "net": 0.33
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "toplam": {
+        "dogru": 49,
+        "yanlis": 28,
+        "net": 39.66
+      }
+    },
+    "lgs_puani": 310.45,
+    "dereceler": {
+      "sinif": {
+        "sira": 10
+      },
+      "okul": {
+        "sira": 74
+      },
+      "il": {
+        "sira": 385
+      },
+      "genel": {
+        "sira": 385
+      }
+    }
+  },
+  {
+    "name": "OSMAN TUTCİ",
+    "scores": [
+      48.35,
+      36.65,
+      45.0,
+      45.0,
+      66.65
+    ],
+    "average": 48.33,
+    "toplam_net": 47.0,
+    "ogrenci_no": 409,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 12,
+        "yanlis": 7,
+        "net": 9.67
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "matematik": {
+        "dogru": 1,
+        "yanlis": 7,
+        "net": -1.33
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 54,
+        "yanlis": 21,
+        "net": 47.0
+      }
+    },
+    "lgs_puani": 324.836,
+    "dereceler": {
+      "sinif": {
+        "sira": 5
+      },
+      "okul": {
+        "sira": 70
+      },
+      "il": {
+        "sira": 349
+      },
+      "genel": {
+        "sira": 349
+      }
+    }
+  },
+  {
+    "name": "OZAN SELİN",
+    "scores": [
+      46.65,
+      43.35,
+      43.35,
+      43.35,
+      45.0,
+      40.0
+    ],
+    "average": 43.62,
+    "toplam_net": 52.34,
+    "ogrenci_no": 427,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 12,
+        "yanlis": 8,
+        "net": 9.33
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 11,
+        "yanlis": 6,
+        "net": 9.0
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 61,
+        "yanlis": 26,
+        "net": 52.34
+      }
+    },
+    "lgs_puani": 351.778,
+    "dereceler": {
+      "sinif": {
+        "sira": 15
+      },
+      "okul": {
+        "sira": 49
+      },
+      "il": {
+        "sira": 257
+      },
+      "genel": {
+        "sira": 257
+      }
+    }
+  },
+  {
+    "name": "PALA BERİL",
+    "scores": [
+      73.35,
+      50.0,
+      50.0,
+      50.0,
+      41.65,
+      73.35
+    ],
+    "average": 56.39,
+    "toplam_net": 67.67,
+    "ogrenci_no": 943,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 11,
+        "yanlis": 8,
+        "net": 8.33
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 73,
+        "yanlis": 16,
+        "net": 67.67
+      }
+    },
+    "lgs_puani": 403.301,
+    "dereceler": {
+      "sinif": {
+        "sira": 7
+      },
+      "okul": {
+        "sira": 23
+      },
+      "il": {
+        "sira": 110
+      },
+      "genel": {
+        "sira": 110
+      }
+    }
+  },
+  {
+    "name": "PARS ERİŞ",
+    "scores": [
+      26.65,
+      20.0,
+      26.65,
+      15.0,
+      41.65
+    ],
+    "average": 25.99,
+    "toplam_net": 25.99,
+    "ogrenci_no": 720,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 8,
+        "yanlis": 8,
+        "net": 5.33
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 3,
+        "net": 4.0
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 2,
+        "net": 5.33
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 0,
+        "net": 3.0
+      },
+      "fen": {
+        "dogru": 9,
+        "yanlis": 2,
+        "net": 8.33
+      },
+      "toplam": {
+        "dogru": 31,
+        "yanlis": 15,
+        "net": 25.99
+      }
+    },
+    "lgs_puani": 272.148,
+    "dereceler": {
+      "sinif": {
+        "sira": 19
+      },
+      "okul": {
+        "sira": 98
+      },
+      "il": {
+        "sira": 563
+      },
+      "genel": {
+        "sira": 563
+      }
+    }
+  },
+  {
+    "name": "POLAT EMİR",
+    "scores": [
+      53.35,
+      50.0,
+      43.35,
+      50.0,
+      61.65,
+      86.64999999999999
+    ],
+    "average": 57.5,
+    "toplam_net": 69.0,
+    "ogrenci_no": 422,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "fen": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "toplam": {
+        "dogru": 74,
+        "yanlis": 15,
+        "net": 69.0
+      }
+    },
+    "lgs_puani": 413.35,
+    "dereceler": {
+      "sinif": {
+        "sira": 4
+      },
+      "okul": {
+        "sira": 16
+      },
+      "il": {
+        "sira": 86
+      },
+      "genel": {
+        "sira": 86
+      }
+    }
+  },
+  {
+    "name": "RA Mİ ML AM İ",
+    "scores": [
+      33.35
+    ],
+    "average": 33.35,
+    "toplam_net": 6.67,
+    "ogrenci_no": 0,
+    "sinif": "8-F",
+    "dersler": {
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "toplam": {
+        "dogru": 15,
+        "yanlis": 25,
+        "net": 6.67
+      }
+    },
+    "lgs_puani": 222.552,
+    "dereceler": {
+      "sinif": {
+        "sira": 23
+      },
+      "okul": {
+        "sira": 147
+      },
+      "il": {
+        "sira": 835
+      },
+      "genel": {
+        "sira": 835
+      }
+    }
+  },
+  {
+    "name": "RA Mİ ML AM İ",
+    "scores": [
+      16.65,
+      16.65
+    ],
+    "average": 16.65,
+    "toplam_net": 4.66,
+    "ogrenci_no": 312,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 1,
+        "yanlis": 9,
+        "net": -2.0
+      },
+      "ingilizce": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "toplam": {
+        "dogru": 16,
+        "yanlis": 34,
+        "net": 4.66
+      }
+    },
+    "lgs_puani": 203.849,
+    "dereceler": {
+      "sinif": {
+        "sira": 28
+      },
+      "okul": {
+        "sira": 160
+      },
+      "il": {
+        "sira": 907
+      },
+      "genel": {
+        "sira": 907
+      }
+    }
+  },
+  {
+    "name": "RAVZA NUR DÜZGÜN",
+    "scores": [
+      33.35,
+      36.65,
+      50.0,
+      43.35,
+      1.6500000000000001,
+      36.65
+    ],
+    "average": 33.61,
+    "toplam_net": 40.33,
+    "ogrenci_no": 140,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 11,
+        "net": 0.33
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 8,
+        "net": 7.33
+      },
+      "toplam": {
+        "dogru": 51,
+        "yanlis": 32,
+        "net": 40.33
+      }
+    },
+    "lgs_puani": 298.202,
+    "dereceler": {
+      "sinif": {
+        "sira": 6
+      },
+      "okul": {
+        "sira": 80
+      },
+      "il": {
+        "sira": 443
+      },
+      "genel": {
+        "sira": 443
+      }
+    }
+  },
+  {
+    "name": "SARA ABDULLAH",
+    "scores": [
+      10.0,
+      16.65,
+      30.0,
+      36.65
+    ],
+    "average": 23.32,
+    "toplam_net": 18.66,
+    "ogrenci_no": 999,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 6,
+        "yanlis": 12,
+        "net": 2.0
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "toplam": {
+        "dogru": 26,
+        "yanlis": 22,
+        "net": 18.66
+      }
+    },
+    "lgs_puani": 232.732,
+    "dereceler": {
+      "sinif": {
+        "sira": 21
+      },
+      "okul": {
+        "sira": 139
+      },
+      "il": {
+        "sira": 778
+      },
+      "genel": {
+        "sira": 778
+      }
+    }
+  },
+  {
+    "name": "SARA ABDULLAH",
+    "scores": [
+      33.35
+    ],
+    "average": 33.35,
+    "toplam_net": 5.34,
+    "ogrenci_no": 992,
+    "sinif": "8-F",
+    "dersler": {
+      "matematik": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "fen": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "toplam": {
+        "dogru": 14,
+        "yanlis": 26,
+        "net": 5.34
+      }
+    },
+    "lgs_puani": 222.315,
+    "dereceler": {
+      "sinif": {
+        "sira": 24
+      },
+      "okul": {
+        "sira": 148
+      },
+      "il": {
+        "sira": 837
+      },
+      "genel": {
+        "sira": 837
+      }
+    }
+  },
+  {
+    "name": "SELİM GÜNER",
+    "scores": [
+      36.65,
+      23.35,
+      38.35,
+      43.35
+    ],
+    "average": 35.42,
+    "toplam_net": 28.34,
+    "ogrenci_no": 708,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 8,
+        "net": 7.33
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "toplam": {
+        "dogru": 33,
+        "yanlis": 14,
+        "net": 28.34
+      }
+    },
+    "lgs_puani": 262.016,
+    "dereceler": {
+      "sinif": {
+        "sira": 21
+      },
+      "okul": {
+        "sira": 109
+      },
+      "il": {
+        "sira": 621
+      },
+      "genel": {
+        "sira": 621
+      }
+    }
+  },
+  {
+    "name": "SELİM GÜNER",
+    "scores": [
+      76.65
+    ],
+    "average": 76.65,
+    "toplam_net": 14.66,
+    "ogrenci_no": 0,
+    "sinif": "8-H",
+    "dersler": {
+      "matematik": {
+        "dogru": 0,
+        "yanlis": 2,
+        "net": -0.67
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 2,
+        "net": 15.33
+      },
+      "toplam": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.66
+      }
+    },
+    "lgs_puani": 253.177,
+    "dereceler": {
+      "sinif": {
+        "sira": 23
+      },
+      "okul": {
+        "sira": 122
+      },
+      "il": {
+        "sira": 664
+      },
+      "genel": {
+        "sira": 664
+      }
+    }
+  },
+  {
+    "name": "SELİN ADA TÜKENMEZ",
+    "scores": [
+      33.35,
+      10.0,
+      38.35,
+      8.35,
+      18.35,
+      5.0
+    ],
+    "average": 18.9,
+    "toplam_net": 22.68,
+    "ogrenci_no": 423,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 9,
+        "yanlis": 7,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 1,
+        "net": 7.67
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 4,
+        "net": 1.67
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 10,
+        "net": 3.67
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 12,
+        "net": 1.0
+      },
+      "toplam": {
+        "dogru": 36,
+        "yanlis": 40,
+        "net": 22.68
+      }
+    },
+    "lgs_puani": 264.827,
+    "dereceler": {
+      "sinif": {
+        "sira": 11
+      },
+      "okul": {
+        "sira": 108
+      },
+      "il": {
+        "sira": 608
+      },
+      "genel": {
+        "sira": 608
+      }
+    }
+  },
+  {
+    "name": "SERT NEVRA",
+    "scores": [
+      93.35000000000001,
+      43.35,
+      43.35,
+      50.0,
+      60.0,
+      80.0
+    ],
+    "average": 61.68,
+    "toplam_net": 74.01,
+    "ogrenci_no": 393,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 19,
+        "yanlis": 1,
+        "net": 18.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "fen": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "toplam": {
+        "dogru": 78,
+        "yanlis": 12,
+        "net": 74.01
+      }
+    },
+    "lgs_puani": 437.174,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 6
+      },
+      "il": {
+        "sira": 45
+      },
+      "genel": {
+        "sira": 45
+      }
+    }
+  },
+  {
+    "name": "SEVİK YAĞI",
+    "scores": [
+      33.35,
+      16.65,
+      13.35
+    ],
+    "average": 21.12,
+    "toplam_net": 9.34,
+    "ogrenci_no": 523,
+    "sinif": "8-XX",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 7,
+        "net": -1.33
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "toplam": {
+        "dogru": 29,
+        "yanlis": 59,
+        "net": 9.34
+      }
+    },
+    "lgs_puani": 234.035,
+    "dereceler": {
+      "sinif": {
+        "sira": 2
+      },
+      "okul": {
+        "sira": 137
+      },
+      "il": {
+        "sira": 774
+      },
+      "genel": {
+        "sira": 774
+      }
+    }
+  },
+  {
+    "name": "SUDE BAYDİL",
+    "scores": [
+      6.65,
+      16.65,
+      13.35,
+      13.35
+    ],
+    "average": 12.5,
+    "toplam_net": 4.67,
+    "ogrenci_no": 595,
+    "sinif": "8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 6,
+        "yanlis": 14,
+        "net": 1.33
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 0,
+        "yanlis": 10,
+        "net": -3.33
+      },
+      "ingilizce": {
+        "dogru": 1,
+        "yanlis": 9,
+        "net": -2.0
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "toplam": {
+        "dogru": 26,
+        "yanlis": 64,
+        "net": 4.67
+      }
+    },
+    "lgs_puani": 221.464,
+    "dereceler": {
+      "sinif": {
+        "sira": 17
+      },
+      "okul": {
+        "sira": 150
+      },
+      "il": {
+        "sira": 839
+      },
+      "genel": {
+        "sira": 839
+      }
+    }
+  },
+  {
+    "name": "SİBE CANZIR",
+    "scores": [
+      15.0,
+      36.65,
+      11.65,
+      26.65,
+      35.0
+    ],
+    "average": 24.99,
+    "toplam_net": 24.32,
+    "ogrenci_no": 553,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 12,
+        "net": 3.0
+      },
+      "tarih": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 4,
+        "yanlis": 5,
+        "net": 2.33
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 5,
+        "net": 5.33
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 9,
+        "net": 7.0
+      },
+      "toplam": {
+        "dogru": 38,
+        "yanlis": 41,
+        "net": 24.32
+      }
+    },
+    "lgs_puani": 276.63,
+    "dereceler": {
+      "sinif": {
+        "sira": 12
+      },
+      "okul": {
+        "sira": 91
+      },
+      "il": {
+        "sira": 539
+      },
+      "genel": {
+        "sira": 539
+      }
+    }
+  },
+  {
+    "name": "TALHA SELİM EVREN",
+    "scores": [
+      53.35,
+      50.0,
+      50.0,
+      50.0,
+      43.35,
+      80.0
+    ],
+    "average": 54.45,
+    "toplam_net": 65.34,
+    "ogrenci_no": 88,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 11,
+        "yanlis": 7,
+        "net": 8.67
+      },
+      "fen": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "toplam": {
+        "dogru": 71,
+        "yanlis": 17,
+        "net": 65.34
+      }
+    },
+    "lgs_puani": 393.602,
+    "dereceler": {
+      "sinif": {
+        "sira": 3
+      },
+      "okul": {
+        "sira": 30
+      },
+      "il": {
+        "sira": 132
+      },
+      "genel": {
+        "sira": 132
+      }
+    }
+  },
+  {
+    "name": "TOY YİĞİT",
+    "scores": [
+      53.35,
+      43.35,
+      50.0,
+      43.35,
+      26.65,
+      53.35
+    ],
+    "average": 45.01,
+    "toplam_net": 54.01,
+    "ogrenci_no": 5,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 11,
+        "net": 5.33
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "toplam": {
+        "dogru": 63,
+        "yanlis": 27,
+        "net": 54.01
+      }
+    },
+    "lgs_puani": 353.067,
+    "dereceler": {
+      "sinif": {
+        "sira": 14
+      },
+      "okul": {
+        "sira": 47
+      },
+      "il": {
+        "sira": 252
+      },
+      "genel": {
+        "sira": 252
+      }
+    }
+  },
+  {
+    "name": "TUGAY ĞÜNAYDIN",
+    "scores": [
+      6.65,
+      10.0,
+      50.0,
+      13.35,
+      13.35
+    ],
+    "average": 18.67,
+    "toplam_net": 16.67,
+    "ogrenci_no": 537,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 6,
+        "yanlis": 14,
+        "net": 1.33
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 1,
+        "yanlis": 9,
+        "net": -2.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "toplam": {
+        "dogru": 35,
+        "yanlis": 55,
+        "net": 16.67
+      }
+    },
+    "lgs_puani": 239.951,
+    "dereceler": {
+      "sinif": {
+        "sira": 17
+      },
+      "okul": {
+        "sira": 132
+      },
+      "il": {
+        "sira": 742
+      },
+      "genel": {
+        "sira": 742
+      }
+    }
+  },
+  {
+    "name": "TUĞSEM ÖREN",
+    "scores": [
+      61.65,
+      10.0,
+      16.65,
+      50.0,
+      55.0,
+      33.35
+    ],
+    "average": 37.77,
+    "toplam_net": 45.33,
+    "ogrenci_no": 620,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 5,
+        "net": 12.33
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 13,
+        "yanlis": 6,
+        "net": 11.0
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "toplam": {
+        "dogru": 56,
+        "yanlis": 32,
+        "net": 45.33
+      }
+    },
+    "lgs_puani": 348.995,
+    "dereceler": {
+      "sinif": {
+        "sira": 8
+      },
+      "okul": {
+        "sira": 53
+      },
+      "il": {
+        "sira": 266
+      },
+      "genel": {
+        "sira": 266
+      }
+    }
+  },
+  {
+    "name": "TÜRKMAYA NAZ",
+    "scores": [
+      73.35,
+      43.35,
+      50.0,
+      50.0,
+      33.35,
+      60.0
+    ],
+    "average": 51.68,
+    "toplam_net": 62.01,
+    "ogrenci_no": 448,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 7,
+        "net": 6.67
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "toplam": {
+        "dogru": 68,
+        "yanlis": 18,
+        "net": 62.01
+      }
+    },
+    "lgs_puani": 382.901,
+    "dereceler": {
+      "sinif": {
+        "sira": 5
+      },
+      "okul": {
+        "sira": 36
+      },
+      "il": {
+        "sira": 161
+      },
+      "genel": {
+        "sira": 161
+      }
+    }
+  },
+  {
+    "name": "VATANSEV ER ÖMER",
+    "scores": [
+      3.35,
+      35.0
+    ],
+    "average": 19.18,
+    "toplam_net": 7.67,
+    "ogrenci_no": 0,
+    "sinif": "8-H",
+    "dersler": {
+      "matematik": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "fen": {
+        "dogru": 9,
+        "yanlis": 6,
+        "net": 7.0
+      },
+      "toplam": {
+        "dogru": 12,
+        "yanlis": 13,
+        "net": 7.67
+      }
+    },
+    "lgs_puani": 226.937,
+    "dereceler": {
+      "sinif": {
+        "sira": 24
+      },
+      "okul": {
+        "sira": 141
+      },
+      "il": {
+        "sira": 811
+      },
+      "genel": {
+        "sira": 811
+      }
+    }
+  },
+  {
+    "name": "VATANSEVER ÖMER",
+    "scores": [
+      38.35,
+      30.0,
+      50.0,
+      43.35
+    ],
+    "average": 40.42,
+    "toplam_net": 32.34,
+    "ogrenci_no": 626,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 7,
+        "net": 7.67
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "toplam": {
+        "dogru": 36,
+        "yanlis": 11,
+        "net": 32.34
+      }
+    },
+    "lgs_puani": 269.933,
+    "dereceler": {
+      "sinif": {
+        "sira": 20
+      },
+      "okul": {
+        "sira": 102
+      },
+      "il": {
+        "sira": 582
+      },
+      "genel": {
+        "sira": 582
+      }
+    }
+  },
+  {
+    "name": "YALÇINMİRAÇ",
+    "scores": [
+      35.0,
+      10.0,
+      30.0
+    ],
+    "average": 25.0,
+    "toplam_net": 11.0,
+    "ogrenci_no": 169,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 2,
+        "yanlis": 18,
+        "net": -4.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 0,
+        "net": 7.0
+      },
+      "din": {
+        "dogru": 3,
+        "yanlis": 0,
+        "net": 2.0
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 0,
+        "net": 0.0
+      },
+      "matematik": {
+        "dogru": 0,
+        "yanlis": 0,
+        "net": 6.0
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 0,
+        "net": 0.0
+      }
+    },
+    "lgs_puani": 168.0,
+    "dereceler": {
+      "sinif": {
+        "sira": 961
+      },
+      "ilce": {
+        "sira": 5534
+      }
+    }
+  },
+  {
+    "name": "YAREN SU ÜZÜM",
+    "scores": [
+      33.35,
+      16.65,
+      16.65,
+      10.0
+    ],
+    "average": 19.16,
+    "toplam_net": 15.33,
+    "ogrenci_no": 287,
+    "sinif": "8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 9,
+        "yanlis": 7,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 4,
+        "yanlis": 2,
+        "net": 3.33
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 3,
+        "net": 2.0
+      },
+      "toplam": {
+        "dogru": 21,
+        "yanlis": 17,
+        "net": 15.33
+      }
+    },
+    "lgs_puani": 238.888,
+    "dereceler": {
+      "sinif": {
+        "sira": 10
+      },
+      "okul": {
+        "sira": 134
+      },
+      "il": {
+        "sira": 753
+      },
+      "genel": {
+        "sira": 753
+      }
+    }
+  },
+  {
+    "name": "YAREN SU ÜZÜM",
+    "scores": [
+      1.6500000000000001,
+      28.35
+    ],
+    "average": 15.0,
+    "toplam_net": 6.0,
+    "ogrenci_no": 187,
+    "sinif": "8-C",
+    "dersler": {
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 5,
+        "net": 0.33
+      },
+      "fen": {
+        "dogru": 8,
+        "yanlis": 7,
+        "net": 5.67
+      },
+      "toplam": {
+        "dogru": 10,
+        "yanlis": 12,
+        "net": 6.0
+      }
+    },
+    "lgs_puani": 220.206,
+    "dereceler": {
+      "sinif": {
+        "sira": 13
+      },
+      "okul": {
+        "sira": 152
+      },
+      "il": {
+        "sira": 843
+      },
+      "genel": {
+        "sira": 843
+      }
+    }
+  },
+  {
+    "name": "YAĞ* DEMİRELİ Z",
+    "scores": [
+      8.35,
+      36.65,
+      30.0,
+      50.0,
+      15.0
+    ],
+    "average": 28.0,
+    "toplam_net": 28.0,
+    "ogrenci_no": 525,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 4,
+        "yanlis": 7,
+        "net": 1.67
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 6,
+        "net": 3.0
+      },
+      "toplam": {
+        "dogru": 34,
+        "yanlis": 18,
+        "net": 28.0
+      }
+    },
+    "lgs_puani": 254.032,
+    "dereceler": {
+      "sinif": {
+        "sira": 22
+      },
+      "okul": {
+        "sira": 120
+      },
+      "il": {
+        "sira": 660
+      },
+      "genel": {
+        "sira": 660
+      }
+    }
+  },
+  {
+    "name": "YAĞIZ KABAY",
+    "scores": [
+      40.0,
+      43.35,
+      43.35,
+      36.65,
+      76.65,
+      86.64999999999999
+    ],
+    "average": 54.44,
+    "toplam_net": 65.33,
+    "ogrenci_no": 14,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 16,
+        "yanlis": 2,
+        "net": 15.33
+      },
+      "fen": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "toplam": {
+        "dogru": 71,
+        "yanlis": 17,
+        "net": 65.33
+      }
+    },
+    "lgs_puani": 409.906,
+    "dereceler": {
+      "sinif": {
+        "sira": 4
+      },
+      "okul": {
+        "sira": 18
+      },
+      "il": {
+        "sira": 91
+      },
+      "genel": {
+        "sira": 91
+      }
+    }
+  },
+  {
+    "name": "YAĞIZ TEKİN",
+    "scores": [
+      40.0,
+      30.0,
+      33.35,
+      10.0,
+      3.35,
+      23.35
+    ],
+    "average": 23.34,
+    "toplam_net": 28.01,
+    "ogrenci_no": 517,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 6,
+        "net": 8.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 1,
+        "net": 6.67
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 3,
+        "net": 2.0
+      },
+      "matematik": {
+        "dogru": 1,
+        "yanlis": 1,
+        "net": 0.67
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 7,
+        "net": 4.67
+      },
+      "toplam": {
+        "dogru": 35,
+        "yanlis": 21,
+        "net": 28.01
+      }
+    },
+    "lgs_puani": 276.278,
+    "dereceler": {
+      "sinif": {
+        "sira": 9
+      },
+      "okul": {
+        "sira": 93
+      },
+      "il": {
+        "sira": 542
+      },
+      "genel": {
+        "sira": 542
+      }
+    }
+  },
+  {
+    "name": "YAĞMUR TOĞAY",
+    "scores": [
+      40.0,
+      3.35,
+      36.65,
+      10.0,
+      55.0
+    ],
+    "average": 29.0,
+    "toplam_net": 26.33,
+    "ogrenci_no": 515,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "tarih": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "matematik": {
+        "dogru": 1,
+        "yanlis": 11,
+        "net": -2.67
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 6,
+        "net": 11.0
+      },
+      "toplam": {
+        "dogru": 40,
+        "yanlis": 41,
+        "net": 26.33
+      }
+    },
+    "lgs_puani": 277.463,
+    "dereceler": {
+      "sinif": {
+        "sira": 9
+      },
+      "okul": {
+        "sira": 90
+      },
+      "il": {
+        "sira": 534
+      },
+      "genel": {
+        "sira": 534
+      }
+    }
+  },
+  {
+    "name": "YAĞMUR ZÜLAL ERBA Y",
+    "scores": [
+      55.0,
+      23.35,
+      31.65,
+      25.0,
+      46.65
+    ],
+    "average": 36.33,
+    "toplam_net": 35.66,
+    "ogrenci_no": 513,
+    "sinif": "Y8-D",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 6,
+        "net": 11.0
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 2,
+        "net": 6.33
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 3,
+        "net": 5.0
+      },
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 8,
+        "net": 9.33
+      },
+      "toplam": {
+        "dogru": 46,
+        "yanlis": 31,
+        "net": 35.66
+      }
+    },
+    "lgs_puani": 302.258,
+    "dereceler": {
+      "sinif": {
+        "sira": 6
+      },
+      "okul": {
+        "sira": 77
+      },
+      "il": {
+        "sira": 417
+      },
+      "genel": {
+        "sira": 417
+      }
+    }
+  },
+  {
+    "name": "YILDIRA FEDAR",
+    "scores": [
+      18.35,
+      26.65,
+      30.0,
+      13.35
+    ],
+    "average": 22.09,
+    "toplam_net": 17.0,
+    "ogrenci_no": 227,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 10,
+        "net": 3.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 2,
+        "net": 5.33
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "toplam": {
+        "dogru": 34,
+        "yanlis": 51,
+        "net": 17.0
+      }
+    },
+    "lgs_puani": 243.144,
+    "dereceler": {
+      "sinif": {
+        "sira": 18
+      },
+      "okul": {
+        "sira": 129
+      },
+      "il": {
+        "sira": 723
+      },
+      "genel": {
+        "sira": 723
+      }
+    }
+  },
+  {
+    "name": "YILMAZ MUHAMMED",
+    "scores": [
+      13.35,
+      10.0,
+      43.35,
+      3.35,
+      6.65,
+      13.35
+    ],
+    "average": 15.01,
+    "toplam_net": 18.01,
+    "ogrenci_no": 373,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "tarih": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "matematik": {
+        "dogru": 6,
+        "yanlis": 14,
+        "net": 1.33
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "toplam": {
+        "dogru": 36,
+        "yanlis": 54,
+        "net": 18.01
+      }
+    },
+    "lgs_puani": 244.358,
+    "dereceler": {
+      "sinif": {
+        "sira": 16
+      },
+      "okul": {
+        "sira": 128
+      },
+      "il": {
+        "sira": 715
+      },
+      "genel": {
+        "sira": 715
+      }
+    }
+  },
+  {
+    "name": "YILMAZ ZEYNEP NUR",
+    "scores": [
+      53.35,
+      50.0,
+      50.0,
+      50.0,
+      26.65,
+      80.0
+    ],
+    "average": 51.67,
+    "toplam_net": 62.0,
+    "ogrenci_no": 977,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 8,
+        "net": 5.33
+      },
+      "fen": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "toplam": {
+        "dogru": 68,
+        "yanlis": 18,
+        "net": 62.0
+      }
+    },
+    "lgs_puani": 378.16,
+    "dereceler": {
+      "sinif": {
+        "sira": 10
+      },
+      "okul": {
+        "sira": 39
+      },
+      "il": {
+        "sira": 176
+      },
+      "genel": {
+        "sira": 176
+      }
+    }
+  },
+  {
+    "name": "YUNUS EMRE ABACI",
+    "scores": [
+      73.35,
+      50.0,
+      50.0,
+      50.0,
+      66.65,
+      46.65
+    ],
+    "average": 56.11,
+    "toplam_net": 67.33,
+    "ogrenci_no": 661,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "fen": {
+        "dogru": 12,
+        "yanlis": 8,
+        "net": 9.33
+      },
+      "toplam": {
+        "dogru": 73,
+        "yanlis": 17,
+        "net": 67.33
+      }
+    },
+    "lgs_puani": 405.717,
+    "dereceler": {
+      "sinif": {
+        "sira": 5
+      },
+      "okul": {
+        "sira": 20
+      },
+      "il": {
+        "sira": 101
+      },
+      "genel": {
+        "sira": 101
+      }
+    }
+  },
+  {
+    "name": "YUSUF ALİ FUAD FUA D",
+    "scores": [
+      10.0,
+      23.35,
+      16.65,
+      13.35,
+      1.6500000000000001
+    ],
+    "average": 13.0,
+    "toplam_net": 13.0,
+    "ogrenci_no": 983,
+    "sinif": "D8-C",
+    "dersler": {
+      "turkce": {
+        "dogru": 4,
+        "yanlis": 6,
+        "net": 2.0
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "ingilizce": {
+        "dogru": 3,
+        "yanlis": 1,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 5,
+        "yanlis": 14,
+        "net": 0.33
+      },
+      "toplam": {
+        "dogru": 23,
+        "yanlis": 30,
+        "net": 13.0
+      }
+    },
+    "lgs_puani": 224.343,
+    "dereceler": {
+      "sinif": {
+        "sira": 11
+      },
+      "okul": {
+        "sira": 145
+      },
+      "il": {
+        "sira": 824
+      },
+      "genel": {
+        "sira": 824
+      }
+    }
+  },
+  {
+    "name": "YUSUF ARDA FESLİYE N",
+    "scores": [
+      33.35,
+      16.65,
+      25.0,
+      50.0,
+      20.0
+    ],
+    "average": 29.0,
+    "toplam_net": 26.0,
+    "ogrenci_no": 431,
+    "sinif": "N8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 6,
+        "yanlis": 3,
+        "net": 5.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 15,
+        "net": -3.0
+      },
+      "fen": {
+        "dogru": 8,
+        "yanlis": 12,
+        "net": 4.0
+      },
+      "toplam": {
+        "dogru": 41,
+        "yanlis": 45,
+        "net": 26.0
+      }
+    },
+    "lgs_puani": 255.827,
+    "dereceler": {
+      "sinif": {
+        "sira": 10
+      },
+      "okul": {
+        "sira": 117
+      },
+      "il": {
+        "sira": 652
+      },
+      "genel": {
+        "sira": 652
+      }
+    }
+  },
+  {
+    "name": "YUSUF EREN KAYIR",
+    "scores": [
+      60.0,
+      30.0,
+      43.35,
+      43.35,
+      13.35,
+      66.65
+    ],
+    "average": 42.78,
+    "toplam_net": 51.34,
+    "ogrenci_no": 432,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 61,
+        "yanlis": 29,
+        "net": 51.34
+      }
+    },
+    "lgs_puani": 349.528,
+    "dereceler": {
+      "sinif": {
+        "sira": 7
+      },
+      "okul": {
+        "sira": 51
+      },
+      "il": {
+        "sira": 263
+      },
+      "genel": {
+        "sira": 263
+      }
+    }
+  },
+  {
+    "name": "YUSUF EYMEN ŞEKER",
+    "scores": [
+      33.35,
+      36.65,
+      43.35,
+      43.35,
+      28.35,
+      73.35
+    ],
+    "average": 43.07,
+    "toplam_net": 51.68,
+    "ogrenci_no": 433,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 8,
+        "yanlis": 7,
+        "net": 5.67
+      },
+      "fen": {
+        "dogru": 16,
+        "yanlis": 4,
+        "net": 14.67
+      },
+      "toplam": {
+        "dogru": 60,
+        "yanlis": 25,
+        "net": 51.68
+      }
+    },
+    "lgs_puani": 349.011,
+    "dereceler": {
+      "sinif": {
+        "sira": 8
+      },
+      "okul": {
+        "sira": 52
+      },
+      "il": {
+        "sira": 265
+      },
+      "genel": {
+        "sira": 265
+      }
+    }
+  },
+  {
+    "name": "YİĞİT EMİ*NERCİN",
+    "scores": [
+      13.35,
+      23.35,
+      16.65,
+      30.0,
+      16.65
+    ],
+    "average": 20.0,
+    "toplam_net": 16.33,
+    "ogrenci_no": 660,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "ingilizce": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 17,
+        "net": -3.67
+      },
+      "fen": {
+        "dogru": 7,
+        "yanlis": 11,
+        "net": 3.33
+      },
+      "toplam": {
+        "dogru": 34,
+        "yanlis": 53,
+        "net": 16.33
+      }
+    },
+    "lgs_puani": 226.868,
+    "dereceler": {
+      "sinif": {
+        "sira": 12
+      },
+      "okul": {
+        "sira": 142
+      },
+      "il": {
+        "sira": 814
+      },
+      "genel": {
+        "sira": 814
+      }
+    }
+  },
+  {
+    "name": "ZEREN DURU",
+    "scores": [
+      55.0,
+      43.35,
+      43.35,
+      50.0,
+      46.65,
+      80.0
+    ],
+    "average": 53.06,
+    "toplam_net": 63.67,
+    "ogrenci_no": 15,
+    "sinif": "8-B",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 6,
+        "net": 11.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 10,
+        "yanlis": 2,
+        "net": 9.33
+      },
+      "fen": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "toplam": {
+        "dogru": 68,
+        "yanlis": 13,
+        "net": 63.67
+      }
+    },
+    "lgs_puani": 393.329,
+    "dereceler": {
+      "sinif": {
+        "sira": 5
+      },
+      "okul": {
+        "sira": 31
+      },
+      "il": {
+        "sira": 135
+      },
+      "genel": {
+        "sira": 135
+      }
+    }
+  },
+  {
+    "name": "ZEYNEP DEMİREL",
+    "scores": [
+      3.35,
+      23.35,
+      6.65
+    ],
+    "average": 11.12,
+    "toplam_net": 2.01,
+    "ogrenci_no": 442,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 0,
+        "yanlis": 10,
+        "net": -3.33
+      },
+      "din": {
+        "dogru": 3,
+        "yanlis": 7,
+        "net": 0.67
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "matematik": {
+        "dogru": 6,
+        "yanlis": 14,
+        "net": 1.33
+      },
+      "fen": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "toplam": {
+        "dogru": 24,
+        "yanlis": 66,
+        "net": 2.01
+      }
+    },
+    "lgs_puani": 200.2,
+    "dereceler": {
+      "sinif": {
+        "sira": 29
+      },
+      "okul": {
+        "sira": 162
+      },
+      "il": {
+        "sira": 921
+      },
+      "genel": {
+        "sira": 921
+      }
+    }
+  },
+  {
+    "name": "ZEYNEP YAĞMUR ATA LI-F",
+    "scores": [
+      36.65,
+      50.0,
+      43.35,
+      33.35
+    ],
+    "average": 40.84,
+    "toplam_net": 32.67,
+    "ogrenci_no": 453,
+    "sinif": "L8I-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 15,
+        "net": 0.0
+      },
+      "fen": {
+        "dogru": 10,
+        "yanlis": 10,
+        "net": 6.67
+      },
+      "toplam": {
+        "dogru": 47,
+        "yanlis": 43,
+        "net": 32.67
+      }
+    },
+    "lgs_puani": 266.681,
+    "dereceler": {
+      "sinif": {
+        "sira": 14
+      },
+      "okul": {
+        "sira": 105
+      },
+      "il": {
+        "sira": 600
+      },
+      "genel": {
+        "sira": 600
+      }
+    }
+  },
+  {
+    "name": "ÇELİK ERTAN",
+    "scores": [
+      80.0,
+      43.35,
+      36.65,
+      43.35,
+      86.64999999999999,
+      60.0
+    ],
+    "average": 58.33,
+    "toplam_net": 70.0,
+    "ogrenci_no": 550,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 17,
+        "yanlis": 3,
+        "net": 16.0
+      },
+      "tarih": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "din": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "ingilizce": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "matematik": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "fen": {
+        "dogru": 14,
+        "yanlis": 6,
+        "net": 12.0
+      },
+      "toplam": {
+        "dogru": 75,
+        "yanlis": 15,
+        "net": 70.0
+      }
+    },
+    "lgs_puani": 430.902,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 12
+      },
+      "il": {
+        "sira": 64
+      },
+      "genel": {
+        "sira": 64
+      }
+    }
+  },
+  {
+    "name": "ÇINAR EFENDİOĞLU",
+    "scores": [
+      11.65,
+      23.35,
+      16.65,
+      5.0
+    ],
+    "average": 14.16,
+    "toplam_net": 11.33,
+    "ogrenci_no": 676,
+    "sinif": "8-E",
+    "dersler": {
+      "turkce": {
+        "dogru": 5,
+        "yanlis": 8,
+        "net": 2.33
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 1,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 4,
+        "yanlis": 2,
+        "net": 3.33
+      },
+      "matematik": {
+        "dogru": 2,
+        "yanlis": 3,
+        "net": 1.0
+      },
+      "fen": {
+        "dogru": 1,
+        "yanlis": 3,
+        "net": 0.0
+      },
+      "toplam": {
+        "dogru": 17,
+        "yanlis": 17,
+        "net": 11.33
+      }
+    },
+    "lgs_puani": 224.966,
+    "dereceler": {
+      "sinif": {
+        "sira": 17
+      },
+      "okul": {
+        "sira": 144
+      },
+      "il": {
+        "sira": 821
+      },
+      "genel": {
+        "sira": 821
+      }
+    }
+  },
+  {
+    "name": "ÇINAR ÇEŞİT",
+    "scores": [
+      86.64999999999999,
+      50.0,
+      50.0,
+      50.0,
+      40.0,
+      93.35000000000001
+    ],
+    "average": 61.67,
+    "toplam_net": 74.0,
+    "ogrenci_no": 153,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 18,
+        "yanlis": 2,
+        "net": 17.33
+      },
+      "tarih": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 9,
+        "yanlis": 3,
+        "net": 8.0
+      },
+      "fen": {
+        "dogru": 19,
+        "yanlis": 1,
+        "net": 18.67
+      },
+      "toplam": {
+        "dogru": 76,
+        "yanlis": 6,
+        "net": 74.0
+      }
+    },
+    "lgs_puani": 428.27,
+    "dereceler": {
+      "sinif": {
+        "sira": 1
+      },
+      "okul": {
+        "sira": 13
+      },
+      "il": {
+        "sira": 65
+      },
+      "genel": {
+        "sira": 65
+      }
+    }
+  },
+  {
+    "name": "ÖMERASAF AYDIN",
+    "scores": [
+      35.0,
+      30.0,
+      45.0,
+      23.35,
+      41.65,
+      53.35
+    ],
+    "average": 38.06,
+    "toplam_net": 45.67,
+    "ogrenci_no": 568,
+    "sinif": "8-A",
+    "dersler": {
+      "turkce": {
+        "dogru": 10,
+        "yanlis": 9,
+        "net": 7.0
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 0,
+        "net": 9.0
+      },
+      "ingilizce": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "matematik": {
+        "dogru": 10,
+        "yanlis": 5,
+        "net": 8.33
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "toplam": {
+        "dogru": 55,
+        "yanlis": 28,
+        "net": 45.67
+      }
+    },
+    "lgs_puani": 339.351,
+    "dereceler": {
+      "sinif": {
+        "sira": 7
+      },
+      "okul": {
+        "sira": 61
+      },
+      "il": {
+        "sira": 299
+      },
+      "genel": {
+        "sira": 299
+      }
+    }
+  },
+  {
+    "name": "ÖZAYDINNENES",
+    "scores": [
+      8.35
+    ],
+    "average": 8.35,
+    "toplam_net": 1.67,
+    "ogrenci_no": 969,
+    "sinif": "8-F",
+    "dersler": {
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 10,
+        "net": 1.67
+      },
+      "fen": {
+        "dogru": 4,
+        "yanlis": 12,
+        "net": 0.0
+      },
+      "toplam": {
+        "dogru": 9,
+        "yanlis": 22,
+        "net": 1.67
+      }
+    },
+    "lgs_puani": 204.339,
+    "dereceler": {
+      "sinif": {
+        "sira": 27
+      },
+      "okul": {
+        "sira": 159
+      },
+      "il": {
+        "sira": 903
+      },
+      "genel": {
+        "sira": 903
+      }
+    }
+  },
+  {
+    "name": "İCLAL DURU DUMAN",
+    "scores": [
+      63.35,
+      40.0,
+      50.0,
+      50.0,
+      11.65,
+      53.35
+    ],
+    "average": 44.73,
+    "toplam_net": 53.67,
+    "ogrenci_no": 328,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 14,
+        "yanlis": 4,
+        "net": 12.67
+      },
+      "tarih": {
+        "dogru": 8,
+        "yanlis": 0,
+        "net": 8.0
+      },
+      "din": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 5,
+        "yanlis": 8,
+        "net": 2.33
+      },
+      "fen": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "toplam": {
+        "dogru": 60,
+        "yanlis": 19,
+        "net": 53.67
+      }
+    },
+    "lgs_puani": 348.273,
+    "dereceler": {
+      "sinif": {
+        "sira": 10
+      },
+      "okul": {
+        "sira": 55
+      },
+      "il": {
+        "sira": 270
+      },
+      "genel": {
+        "sira": 270
+      }
+    }
+  },
+  {
+    "name": "İLHAN EFE AÇIKEL",
+    "scores": [
+      13.35,
+      16.65,
+      40.0
+    ],
+    "average": 23.33,
+    "toplam_net": 11.33,
+    "ogrenci_no": 329,
+    "sinif": "8-F",
+    "dersler": {
+      "turkce": {
+        "dogru": 7,
+        "yanlis": 13,
+        "net": 2.67
+      },
+      "tarih": {
+        "dogru": 5,
+        "yanlis": 5,
+        "net": 3.33
+      },
+      "din": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "ingilizce": {
+        "dogru": 2,
+        "yanlis": 8,
+        "net": -0.67
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 16,
+        "net": -1.33
+      },
+      "fen": {
+        "dogru": 11,
+        "yanlis": 9,
+        "net": 8.0
+      },
+      "toplam": {
+        "dogru": 31,
+        "yanlis": 59,
+        "net": 11.33
+      }
+    },
+    "lgs_puani": 236.047,
+    "dereceler": {
+      "sinif": {
+        "sira": 20
+      },
+      "okul": {
+        "sira": 135
+      },
+      "il": {
+        "sira": 766
+      },
+      "genel": {
+        "sira": 766
+      }
+    }
+  },
+  {
+    "name": "İSMAİL ESKİ",
+    "scores": [
+      33.35,
+      30.0,
+      30.0,
+      36.65,
+      3.35,
+      30.0
+    ],
+    "average": 27.22,
+    "toplam_net": 32.67,
+    "ogrenci_no": 332,
+    "sinif": "8-H",
+    "dersler": {
+      "turkce": {
+        "dogru": 9,
+        "yanlis": 7,
+        "net": 6.67
+      },
+      "tarih": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "din": {
+        "dogru": 7,
+        "yanlis": 3,
+        "net": 6.0
+      },
+      "ingilizce": {
+        "dogru": 8,
+        "yanlis": 2,
+        "net": 7.33
+      },
+      "matematik": {
+        "dogru": 4,
+        "yanlis": 10,
+        "net": 0.67
+      },
+      "fen": {
+        "dogru": 8,
+        "yanlis": 6,
+        "net": 6.0
+      },
+      "toplam": {
+        "dogru": 43,
+        "yanlis": 31,
+        "net": 32.67
+      }
+    },
+    "lgs_puani": 282.94,
+    "dereceler": {
+      "sinif": {
+        "sira": 18
+      },
+      "okul": {
+        "sira": 88
+      },
+      "il": {
+        "sira": 509
+      },
+      "genel": {
+        "sira": 509
+      }
+    }
+  },
+  {
+    "name": "ŞÜKÜR NEHİR",
+    "scores": [
+      53.35,
+      23.35,
+      43.35,
+      50.0,
+      46.65,
+      66.65
+    ],
+    "average": 47.23,
+    "toplam_net": 56.67,
+    "ogrenci_no": 392,
+    "sinif": "8-G",
+    "dersler": {
+      "turkce": {
+        "dogru": 13,
+        "yanlis": 7,
+        "net": 10.67
+      },
+      "tarih": {
+        "dogru": 6,
+        "yanlis": 4,
+        "net": 4.67
+      },
+      "din": {
+        "dogru": 9,
+        "yanlis": 1,
+        "net": 8.67
+      },
+      "ingilizce": {
+        "dogru": 10,
+        "yanlis": 0,
+        "net": 10.0
+      },
+      "matematik": {
+        "dogru": 12,
+        "yanlis": 8,
+        "net": 9.33
+      },
+      "fen": {
+        "dogru": 15,
+        "yanlis": 5,
+        "net": 13.33
+      },
+      "toplam": {
+        "dogru": 65,
+        "yanlis": 25,
+        "net": 56.67
+      }
+    },
+    "lgs_puani": 374.67,
+    "dereceler": {
+      "sinif": {
+        "sira": 11
+      },
+      "okul": {
+        "sira": 40
+      },
+      "il": {
+        "sira": 187
+      },
+      "genel": {
+        "sira": 187
+      }
+    }
+  }
+]
